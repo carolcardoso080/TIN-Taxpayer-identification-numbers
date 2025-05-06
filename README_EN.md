@@ -1,5 +1,3 @@
-# TIN-Taxpayer-identification-numbers
-
 <div align="center">
 <h1>TIN - Taxpayer identification numbers</h1>
 
