@@ -5,7 +5,7 @@
 
 <p>Library of tax identification numbers of the countries of the world</p>
 
-### [Looking for the english version?](README_EN.md)
+### [Procurando pela versão em português (PT-BR)?](README.md)
 
 </div>
 
