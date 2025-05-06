@@ -1,5 +1,6 @@
 <div align="center">
-<h1>TIN - Taxpayer identification numbers</h1>
+<h1>NIF - Números de Identificação Fiscal</h1>
+<h3>Ou TIN - Taxpayer Identification Numbers em inglês</h3>
 
 <p>Biblioteca de números de identificação fiscal dos países do mundo</p>
 
