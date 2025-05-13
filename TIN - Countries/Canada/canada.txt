@@ -1,0 +1,98 @@
+Jurisdiction’s name: Canada
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Tax identification numbers (TINs) exist in Canada in various forms and are issued to residents and non-
+residents of Canada. The descriptions below focus on residents of Canada – the persons for which a
+TIN is required to be collected for exchange of information purposes under the Common Reporting
+Standard.
+
+Individuals
+
+For individuals resident in Canada, their authorized tax identification number is their nine-digit
+Canadian Social Insurance Number (SIN) issued by Service Canada. Every individual resident in
+Canada with income tax filing obligations (or in respect of whom an information return is to be made)
+is required to have (or obtain) a SIN.
+
+SINs are confidential but are required to be furnished on request to financial institutions for tax reporting
+purposes.
+
+For more information on the SIN, including how to apply for one, go to Service Canada.
+
+Corporations
+
+For corporations, their tax identification number is a unique nine-digit Business Number (BN) issued
+by the Canada Revenue Agency. Corporations resident in Canada have income tax reporting obligations
+and are required to have a BN.
+
+For more information on the BN, including how to apply for one, go to Business Number (BN)
+registration.
+
+Trusts
+
+For trusts, their tax identification number is their eight-digit trust account number preceded by the letter
+“T” issued by the Canada Revenue Agency. Trusts resident in Canada with income tax reporting
+obligations are required to have a trust account number.
+
+For more information on the trust account number, including how to apply for one, go to Application
+for a Trust Account Number.
+
+Partnerships
+
+For partnerships, their tax identification number is a unique nine-digit Business Number (BN) issued
+by the Canada Revenue Agency. Partnerships required to file a partnership return in Canada or with
+commercial affairs in Canada are required to have a BN.
+
+For more information on the BN, including how to apply for one, go to Business Number (BN)
+registration.
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does Canada automatically issue TINs to all residents for tax purposes?
+
+Individuals: No
+Entities: No
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+
+Individuals resident in Canada have to apply for a TIN. A TIN can be issued to any Canadian resident
+on request.
+
+Every individual resident in Canada who files an income tax and benefit return (or in respect of
+whom an information return has to be filed, such as by an employer) is required to have (or obtain)
+a TIN.
+
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the CRS),
+describe those instances where Entities are not being automatically issued a TIN.
+
+A TIN will be issued to any entity resident in Canada upon request.
+
+All corporations resident in Canada are required to have a TIN.
+
+Trusts and partnerships with their place of management in Canada are required to have a TIN if they
+have income tax reporting obligations in Canada.
+
+Section II – TIN Structure
+
+The structure of the TIN varies depending on the type of taxpayer or filer:
+
+• A SIN is a unique nine-digit number issued by Service Canada to identify individuals.
+
+• A BN is a unique nine-digit number issued by the Canada Revenue Agency to identify
+businesses and partnerships.
+
+• A trust account number is a unique eight-digit number preceded by the letter “T” issued by the
+Canada Revenue Agency to identify trusts.
+
+Section III – Where to find TINs?
+
+Canadians who have applied for a Social Insurance Number (SIN) before March 30, 2014, would have
+received a SIN card. The SIN card is not an identity document and contains no photo. Effective March
+31, 2014, the production of SIN cards was discontinued however; SIN cards in circulation that have not
+expired remain valid. Service Canada now issues SINs to individuals in a letter format instead of a card.
+
+SINs can be found on the front page of an individual income tax return. SINs can also be found on
+notices of assessment issued by the Canada Revenue Agency (see examples below).

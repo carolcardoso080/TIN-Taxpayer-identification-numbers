@@ -1,0 +1,145 @@
+              Jurisdiction’s name;                                           Japan
+
+                             Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Individual Number (“My Number”)
+
+     Individual Number (nicknamed “My Number”) is 12-digit numbers assigned to individuals living
+in Japan under the Social Security and Tax Number System.
+
+(Note 1) Point to be noted regarding the collection of Individual Numbers
+Pursuant to domestic law and paragraph D of Section I and paragraph B of Section IV of the CRS, a
+Reporting Financial Institution, that is located in a jurisdiction which has not become a party to the
+Multilateral Convention on the Mutual Administrative Assistance in Tax Matters or with which Japan
+has not concluded a bilateral tax treaty, is not required to collect information on individual numbers of
+residents of Japan for the purpose of automatic exchange of information based on the CRS.
+
+(Note 2) Point to be noted when handling Individual Numbers
+Business operators must implement essential and appropriate safety management measures to prevent
+leakage, loss or impairment and for other appropriate management of Individual Numbers.
+
+See “For private entities” on the “The Social Security and Tax_Number System”.
+
+○Act on the Use of Numbers to Identify a Specific Individual in the Administrative Procedure (Act
+as of May 30, 2017)
+ Article 12
+    Persons in Charge of Affairs Using the Individual Numbers and Persons in Charge of Affairs Related
+ to the Individual Numbers (hereinafter collectively referred to as "Person in Charge of Affairs Using the
+ Individual Number, etc.") shall take measures necessary for appropriate management of Individual
+ Numbers, such as prevention of divulgation, loss, or damage of Individual Numbers.
+
+For your information: “マイナンバー法の改正 (Revision of Act on the Use of Numbers to Identify a
+Specific Individual in the Administrative Procedure)” on the “The Social Security and Tax_Number
+System”.
+
+
+Corporate Number
+
+      Corporate Number is 13-digit numbers assigned to 1) National government organs, 2) Local public
+entities, 3) Registered corporations, and 4) other corporations and organization. Unlike Individual
+Number (My Number), there are no restrictions to its range of use and may be used openly by anyone.
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax
+purposes?
+
+                             Basically, Yes                                           X
+       Individuals                                          Entities
+                                    X                                                 No
+
+
+
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+
+    Everyone registered as a resident in Japan is assigned a unique Individual Number and is
+notified of it. Foreigners with certain status, such as a medium-to long-term resident status (※) or a
+special permanent resident status, also receive Individual Numbers.
+
+(※) Those having a medium-to long-term resident status are foreigners who are living in Japan with
+    a residence card issued for a status of residence, except those who have been granted a residency
+    period of three months or less and those who have been granted a status of residence for a short-
+    term stay or for diplomatic or government-related purpose.
+
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the
+CRS), describe those instances where Entities are not being automatically issued a TIN.
+
+    Corporate Numbers are designated to 1) National government organs, 2) Local public entities,
+3) Registered corporations, and 4) other corporations and associations or the like without juridical
+personality but with duty to file and pay the corporate tax or consumption tax, or to withhold the
+income tax on salary and the like. In regards to these corporations, the Commissioner of the
+National Tax Agency designates a Corporate Number without requiring any filing or the like in
+particular.
+    Therefore, Corporate Number is not issued to corporations or associations without judicial
+personality who does not meet the above conditions.
+（※）Certain partnerships such as Silent Partnership, Limited Partnership for investment etc. are
+       not basically assigned Corporate Numbers.
+
+    Additionally, corporations and associations without juridical personality that are not issued a
+Corporate Number in accordance with the above paragraph can still receive a Corporate Number by
+applying to the commissioner of the National Tax Agency, provided that they are a corporation
+having its head office in Japan that was established based on a specific law or ordinance and meet
+certain requirements, among them that they have submitted documents (tax returns, notifications,
+etc.) to the district director of a tax office or other authority based on national tax laws.
+Section II – TIN Structure
+
+
+Individual Number
+
+    Individual Number is 12-digit number comprised of numerals only.
+
+
+Corporate Number
+
+      Corporate Number is 13-digit numbers comprised of numerals only. If a corporation registered
+its establishment based on the Companies Act (Law No. 86 of 2005) or other laws or ordinances
+(establishment-registered corporation), its number is its Company, etc., Number (12 digits) that was
+issued based on the Commercial Registration Act (Law No.125 of 1963) plus a one-digit examination
+numeral added to the front.
+
+
+
+Section III – Where to find TINs?
+
+Individual Number
+
+     If you are registered as a resident in Japan, your Individual Number (My Number) is printed on
+“the notification card” that you receive from the municipal office of your registered address.
+
+    “Individual Number Cards” will be issued upon application. “Individual Number Cards”
+include the individual’s name, address, date of birth, gender, Individual Number, and ID photo.
+
+
+Corporate Number
+
+    Corporate Number is notified through a document with the Corporate Number and such sent
+from the Commissioner of the National Tax Agency.
+
+     Unlike Individual Number, Corporate Number is published through the Internet (Corporate
+Number Publication Site). Information to be made public is comprised of 3 components (Basic 3
+Information): include trade name or name of the association that has been designated a Corporate
+Number, address of head or principal place of business, and Corporate Number.
+Section IV – TIN information on the domestic website
+
+For more information on Individual Number (My Number) for individuals, please visit the The
+Social Security and Tax Number System.
+http://www.cao.go.jp/bangouseido/ (Japanese/日本語)
+http://www.cao.go.jp/bangouseido/foreigners/english.html (English)
+
+For more information on Corporate Number for corporations, please visit the About the Corporate
+Number.
+http://www.nta.go.jp/mynumberinfo/houjinbangou/index.htm (Japanese/日本語)
+http://www.nta.go.jp/foreign_language/corporate_number/index.htm (English)
+
+More information on the outline of Number System can also be found at Q3-13-1and Q3-13-2of
+“番号制度概要に関する FAQ” on the National Tax Agency website.
+http://www.nta.go.jp/mynumberinfo/FAQ/gaiyou.htm (Japanese only/日本語のみ)
+
+Section V – Contact point for further information
+
+For the information appeared here, please contact
+NATIONAL TAX AGENCY (INTERNATIONAL OPERATION DIVISION)
+

@@ -1,0 +1,104 @@
+                            Information on Tax Identification Numbers
+
+Section I – TIN Description
+In accordance with paragraph 7 of Article 84 of the Russian Federation Tax Code all Russian
+taxpayers whether individuals or businesses are assigned a unique Taxpayer Personal Identification
+Number known as INN (Russian analog for TIN).
+
+The INN refers for all types of taxes in the Russian Federation.
+
+
+       Depending on circumstances for individuals INN may be assigned by the tax authority
+        at the place of individual’s permanent residence
+        at the place of individual’s temporary residence (in case individual has no permanent
+          residence in Russia)
+        at the place of individual’s immovable property or vehicle (in case individual has no
+          permanent or temporary residence in Russia)
+
+For Russian legal entities INN is assigned by tax authority at the location of legal while registration
+of such legal entities.
+
+For foreign legal entities conducting business activity in the territory of Russian Federation through
+a branch, representative office, division, bureau, office, company or any other separate business unit,
+INN is assigned by tax authority at the place of such business activity while registration of such
+separate business unit.
+
+Automatic issuance of TINs to all residents for tax purposes:
+
+Individual:  yes
+
+         If no, instances where individuals are not being automatically issued a TIN are:
+
+Entities (as defined by the CRS): yes
+
+         If no, instances where Entities are not being automatically issued a TIN are:
+
+Section II – TIN Structure
+
+INN has the following structure:
+
+     1) For businesses it is a ten-digit code
+
+ N      N      N        N       X       X         X        X   X       C
+
+
+
+     2) Foreign organizations are also assigned a ten-digit code
+
+ 9      9     0     9       X       X         X       X        X   C
+
+
+
+     3) For individuals it is a twelve-digit code
+ N      N      N      N     X      X    X     X      X     X     C     C
+
+
+
+The INN is generated as a digital code comprised of a sequence of digits which characterize:
+
+1) NNNN (4 digits)
+
+For Russian organizations and individuals – code of the tax authority which assigned the INN.
+
+For foreign organizations – index defined by the Federal Tax Service.
+
+2) XXXXX (XXXXXX)
+
+For Russian organizations (individuals) – a sequence number of the person’s entry in the territorial
+section of the Unified State Register of Taxpayers (USRT). It consists of 5 digits in case of
+organizations and 6 digits in case of individuals.
+
+For foreign organizations – code of foreign organization according to the reference book “Foreign
+Companies Coding”.
+
+3) C (CC) – control number (1 digit for organization, 2 digits for individuals)
+
+It is generated according to a unique algorithm set by the Federal Tax Service.
+
+Section III – Where to find TINs?
+
+INN can be found from the certificate of registration of an individual or business as a taxpayer.
+
+Note: INN is not related to the passport number.
+
+Section IV – TIN information on the domestic website
+Link to information about INN on FTS of Russia web-portal:
+
+http://www.nalog.ru/eng/exchinf/inn/
+
+Link to FTS of Russia online service allowing to find out information on registration of legal entities
+and individual entrepreneurs (currently available only in Russian):
+
+egrul.nalog.ru.
+
+Link to FTS of Russia online service Find out an INN (TIN) (currently available only in Russian)
+
+https://service.nalog.ru/inn.do.
+
+Section V – Contact point for further information
+
+Mr. Maxim Kuznetsov
+Head of Automatic Exchange of Information Division
+Federal Tax Service of Russia
+mns11324@nalog.ru
++7 495 913-03-79

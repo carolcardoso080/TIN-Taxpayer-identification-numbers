@@ -1,0 +1,294 @@
+     Jurisdiction’s name:                                                      Romania
+
+                                  Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+
+Tax identification number (TIN) is a numerical code that is used by individuals or entities (companies) for tax
+purposes.
+
+1. Individuals:
+    A. The Personal Code (CNP) is issued by the Ministry of Internal Affairs and it is used also by the tax
+       administration as a TIN;
+    B. Tax identification number (NIF) for tax non-resident persons in Romania is issued by the Tax
+       Administration only for tax purposes.
+
+2. Entities:
+According to the provisions of the Fiscal Procedure Code, any person or entity that is the subject of a tax legal
+report registers for tax purposes and receives a tax identification code.
+The tax identification number (CIF) for entities is:
+    - for entities that have the obligation to register with the National Trade Registry Office (NTRO), the
+       unique registration code (CUI) assigned according to the special law;
+    - for entities, as well as for associations and other entities without legal personality the tax registration
+       code is assigned by the tax authority.
+
+Please also see Annex 1 and Annex 2
+
+
+         Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+      Individuals                   [Yes]                     Entities                         [Yes]
+
+Section II – TIN Structure
+
+Please see the Annex 1.
+Section III – Where to find TINs
+
+Please see the Annex 2.
+
+Section IV – TIN information online
+
+Regarding individuals:
+https://ec.europa.eu/taxation_customs/tin/#/check-tin
+
+Regarding entities:
+https://mfinante.gov.ro/domenii/informatii-contribuabili/persoane-juridice/info-pj-selectie-dupa-cui
+
+Section V – Contact point for further information
+
+https://www.anaf.ro/asistpublic/
+https://www.anaf.ro/anaf/internet/ANAF/contact/call_center
+                                                                                              Annex 1
+
+A. ROMANIA TIN1 NATURAL PERSONS
+
+Structure: TIN1 Format   [C1, C2, C3, C4, C5, C6, C7,         Where C1 to C13 are characters.
+                         C8, C9, C10, C11, C12, C13]
+
+Structure: Range         C1, C2, C3, C4, C5, C6, C7,          A numeric.
+                         C8, C9, C10, C11, C12, C13
+
+Structure: Rules         C1           In the range 1...8:
+                                        1 is for the male person born between 1900 and 1999;
+                                        2 is for the female person born between 1900 and 1999;
+                                        3 is for the male person born between 1800 and 1899;
+                                        4 is for the female person born between 1800 and 1899;
+                                        5 is for the male person born between 2000 and 2099;
+                                        6 is for the female person born between 2000 and 2099;
+                                        7 is for the foreign male obtaining temporary residence in
+                                         Romania;
+                                        8 is the foreign female obtaining temporary residence in
+                                         Romania;
+
+                         C2, C3       Two last digits of a year (in the range 00…99).
+
+                         C4, C5       Month (in the range 1...12).
+
+                         C6, C7       Day of month (in the range 1...31 depending on month and year).
+
+                         C8, C9       County or district code (can only take the values 01 to 47, 51 and
+                                      52, 70 or 80 to 83).
+
+Structure: Sample        1010100012345
+
+
+B. ROMANIA TIN2 NATURAL PERSONS - ISSUED BY THE TAX ADMINISTRATION
+
+Structure: TIN2 Format   [C1, C2, C3, C4, C5, C6, C7, C8, C9,          Where C1 to C13 are
+                         C10, C11, C12, C13]                           characters.
+
+Structure: Range         C1, C2, C3, C4, C5, C6, C7, C8, C9,           A numeric.
+                         C10, C11, C12, C13
+
+Structure: Rules         C1                                            9
+
+                         C2, C3, C4                                    0
+
+                         C5, C6, C7, C8, C9, C10, C11, C12, C13        In the range 0...9.
+
+Structure: Sample        9000123456789
+       Romania (RO)                                                                            Annex 2
+
+
+
+                               TAX IDENTIFICATION NUMBERS (TINs)
+1. TIN Structure
+
+               Format                     Explanation                       Comment
+          9999999999999                  13-digit code                Personal Code (CNP)
+          9999999999999                  13-digit code            Tax identification number (NIF)
+
+2. TIN Description
+
+ A.   Personal Code (CNP): Represents a significant number that uniquely individualizes an
+      individual. It is assigned to natural persons born in Romania and to foreign residents
+      registered in Romania. The first digit represents the sex of the person: "1" or "2", male or
+      female, for persons born between 1900 and 1999, "3" or "4" for persons born between 1800
+      and 1899, "5" or "6" for persons born between 2000 and 2099, "7" or "8", foreign persons
+      resident in Romania. Following is a set of 6 digits that represent the year, month and day of
+      birth of the holder of the identity card. Next 2 digits represent the county or district code and
+      can only take the values 01 to 47, 51 and 52, 70 or 80 to 83. The last 4 digits represent a
+      unique assigned number.
+ B. Tax identification number (NIF): National Agency for Fiscal Administration (ANAF) in
+    Romania issues NIF for non-resident individuals in Romania. NIF is issued by the Tax
+    Administration and can be used only for tax purposes. The first digit of it is always "9".
+
+3. Where to find TINs?
+
+TINs are reported on the following official identity documents:
+
+3.1 Certificate for Tax Registration (old form)
+
+
+
+
+                                                                                     TIN
+                                                                              Tax identification
+                                                                                number (NIF)
+        Romania (RO)                                         Annex 2
+
+3.2 Certificate for Tax Registration (new form)
+
+
+
+
+                                                         TIN
+                                                  Tax identification
+                                                    number (NIF)
+
+
+
+
+3.3. Passport:
+
+3.3.1. Electronic Passport:
+
+
+
+
+                                                        TIN
+                                                      Personal
+                                                     Code (CNP)
+       Romania (RO)                                                                           Annex 2
+
+3.3.2. Temporary Passport:
+
+
+
+
+                                                                                           TIN
+                                                                                         Personal
+                                                                                        Code (CNP)
+
+
+
+
+3.4. Identity card
+    source: PRADO - Public Register of Authentic identity and travel Documents Online
+
+3.4.1. - First issued on 01.01.2006:
+
+                                                                 TIN
+                                                         Personal Code (CNP)
+
+
+
+
+3.4.2. - First issued on 12.05.2009:
+
+
+                                                                 TIN
+                                                         Personal Code (CNP)
+       Romania (RO)                                                                Annex 2
+
+
+3.4.3. First issued on 02.01.2017:
+
+
+                                                             TIN
+                                                     Personal Code (CNP)
+
+
+
+
+3.4.4. First issued on 15.03.2021:
+
+
+
+                                                              TIN
+                       \                              Personal Code (CNP)
+
+
+
+
+3.4.5. First issued on 08.09.2021:
+This document will gradually replace, until August 2031, the current identity card (according
+with the provisions of the Government Emergency Ordinance No. 97/2005 as subsequently
+amended and supplemented).
+
+
+
+
+                                                TIN
+                                        Personal Code (CNP)
+       Romania (RO)                                                                      Annex 2
+
+
+3.5. Permanent residence card for European Union citizens and family members, first issued in
+     January 2007
+    source: PRADO - Public Register of Authentic identity and travel Documents Online
+
+
+                                                                                 TIN
+                                                                         Personal Code (CNP)
+
+
+
+
+3.6. Temporary (or long-term) residence permit for non-EU nationals - first issued in January
+     2007
+    source: PRADO - Public Register of Authentic identity and travel Documents Online
+
+
+
+
+                                                        TIN
+                                                Personal Code (CNP)
+
+3.7. Driving license
+    source: PRADO - Public Register of Authentic identity and travel Documents Online
+
+
+
+
+                                                        TIN
+                                                Personal Code (CNP)
+       Romania (RO)                                                                               Annex 2
+
+4. TIN online check
+
+                       Individuals    https://ec.europa.eu/taxation_customs/tin/#/check-tin
+  TIN online check:
+                                      https://mfinante.gov.ro/domenii/informatii-
+                       Entities
+                                      contribuabili/persoane-juridice/info-pj-selectie-dupa-cui
+
+
+5. TIN national contact point
+
+
+  https://www.anaf.ro/asistpublic/
+  https://www.anaf.ro/anaf/internet/ANAF/contact/call_center
+
+
+
+6. Legal notice
+
+  The information on Tax Identification Numbers (TINs) and the use of the TIN online check
+  module provided on this European TIN Portal, are subject to a disclaimer, a copyright notice
+  and rules relating to the protection of personal data and privacy.
+
+  Specific copyright notice for Romania (2012)
+
+  The re-use of documents held by Romania or on their behalf by third entities featured on the
+  European TIN Portal is subject to national copyright rules unless otherwise indicated.
+  Reproduction of content on Romanian pages is authorised, provided the source is
+  acknowledged, save where otherwise stated.
+
+  Where prior permission must be obtained for the reproduction or use of textual and multimedia
+  information (sound, images, software etc.), such permission shall cancel the above-mentioned
+  general permission and shall clearly indicate any restrictions on use.
+

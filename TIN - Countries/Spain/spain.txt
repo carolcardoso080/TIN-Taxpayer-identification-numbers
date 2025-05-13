@@ -1,0 +1,153 @@
+               Jurisdiction’s name:                                          SPAIN
+
+
+                              Information on Tax Identification Numbers
+Section I – TIN Description
+Spain issues TINs, which are reported on official documents of identification.
+
+TIN in Spain is unique for tax and customs purposes and contains nine characters, the last of them is a
+letter for control (Natural persons) or a control character (Non - natural persons).
+
+Natural persons of Spanish nationality: Generally, the TIN is the number on your National Identity
+Card, issued by the Ministry of Internal Affairs (General Directorate of Police). The Tax Administration
+will provide Spanish natural persons who are not obliged to possess a National Identity Card (DNI) with
+a Tax Identification Number (TIN) starting with an L (non-resident Spaniards) or a K (resident Spaniards
+under the age of 14 years), upon request.
+
+Natural persons without Spanish nationality: Generally, their Tax Identification Number (TIN) is the
+Foreigners’ Identification Number (NIE), likewise issued by the Ministry of Internal Affairs. Natural
+persons without Spanish nationality who do not possess a Foreigners’ Identification Number (NIE) but
+need a Tax Identification Number (TIN) because they are going to engage in transactions involving
+Spanish taxation can obtain a Tax Identification Number starting with the letter M, that will have a
+transitory nature, until they obtain a Foreigners’ Identification Number (NIE), where appropriate, also
+issued by the Tax Administration.
+
+Concerning the entities, they are obliged to obtain a TIN, which is issued by the Tax Administration.
+
+
+    Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+
+       Individuals                  Yes                     Entities                   Yes
+
+
+
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the CRS),
+describe those instances where Entities are not being automatically issued a TIN.
+
+
+
+
+Section II – TIN Structure
+
+         Format                           Explanation                                  Comments
+
+
+     Natural Persons
+
+
+       99999999L                     8 digits + 1 control letter             Spanish Natural Persons: DNI*
+
+       L9999999L               Letter L + 7 digits + 1 control letter     Non-resident Spaniards without DNI*
+
+
+       K9999999L               Letter K + 7 digits + 1 control letter     Resident Spaniards under 14 without
+                                                                                         DNI*
+
+   X ó Y ó Z 9999999         Letter X/Y/Z + 7 digits + 1 control letter          Foreigners with NIE**
+
+       M9999999L               Letter M + 7 digits + 1 control letter           Foreigners without NIE**
+
+
+  Non-Natural Persons
+                                                                                  NON- natural persons
+
+                                                                          The first letter reports on legal form,
+                                                                                        whether it is
+
+                               Initial Letter + 7 numbers + control        -a Spanish entity (A, B, C, D, E, F, G,
+       L99999999                              character                             H, J, P, Q, S, U, V)
+
+                                                                                  - or foreign entity (N),
+
+                                                                          - or permanent establishment of a non-
+                                                                                   resident in Spain (W)
+Section III – Where to find TINs?
+
+
+        TINs are reported on the following official identity documents:
+
+ 1.1.   Personal Identity Card
+
+ 1.1.1. Identity Card until 2006
+
+
+
+
+                                                                               Personal name
+                                                                               First family name
+                                                                               Second family name
+
+
+
+
+                                                                                 DNI (TIN)
+
+
+ 1.1.2. Electronic Identity Card
+
+        On March 2006 the electronic identity card has been introduced.
+
+
+                                                                      First family name
+                                                                       Second family name
+                                                                      Personal name
+
+
+
+
+                                                                                 DNI (TIN)
+
+
+
+
+1.1.3. Foreigners’ Resident Card
+                                                                                First family name
+                                                                                Second family name
+                                                                                Personal name
+
+
+
+
+                                                                                  Number (TIN)
+
+
+
+
+Section IV – TIN information on the domestic website
+
+Information on TIN:
+
+https://sede.agenciatributaria.gob.es/Sede/en_gb/censos-nif-domicilio-fiscal.html
+
+
+If the consultant has an electronic certificate recognized by the National Tax Administration can verify
+whether a third party’s TIN is correct and registered, logging in the website
+https://sede.agenciatributaria.gob.es/Sede/en_gb/inicio.html
+
+
+If the TIN holder shows the Tax Identification Card issued by the Tax Agency, any person, even without
+an electronic certificate, can consult its authenticity logging in the electronic code of the card in the Tax
+Agency website, option: “verification of authenticity of the tax identification card by means of an
+electronic code”. If he/she has the letter of formal notice, logging in “Comparison of documents by
+means of Safe Verification Code”, that can be found at the bottom of the letter.
+
+
+Section V – Contact point for further information
+
+Under consideration.

@@ -1,0 +1,120 @@
+Jurisdiction’s name: Australia
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Australian Tax File Number (TFN)
+
+The TIN in Australia is referred to as the Tax File Number (TFN). The TFN is used by individuals
+and entities that have a need to interact with the ATO. Examples of such interactions include the need to
+report information to the ATO, lodge income tax returns or interact in the superannuation
+(retirement income) system. A TFN can be issued to individuals or non-individual entities
+(companies, trusts, partnerships, and superannuation funds).
+
+A TFN is issued under the Income Tax Assessment Act 1936 (ITAA 1936) upon application by the
+client or as required by the ATO for internal purposes.
+
+Applying for a TFN can be completed online or via paper channels and will be issued once sufficient
+proof of identity has been provided. For an individual this includes one primary document (birth
+certificate, passport, citizenship certificate) and up to two secondary documents (driver licence, Medicare
+card, bank statement, firearms licence, student card, proof of age card, student examination certificate).
+Proof of identity requirements for partnerships, companies and trusts include establishing the identity of
+the partners, director(s) and public officer and trustee respectively.
+
+Australian Business Number (ABN)
+
+Australian businesses use the Australian Business Number (ABN) as a single identifier for all business
+dealings with the ATO and for dealings with other government departments and agencies. The ABN is
+also used for tax identification purposes.
+
+Businesses need an ABN to register for the goods and services tax and other elements of The New Tax
+System (Goods and Services Tax) Act 1999.
+
+Similar to a TFN, the application process for an ABN can be completed online or via paper channels.
+
+Additionally, registration for GST can be completed simultaneously with an ABN application.
+
+The Australian Government introduced the ABN in response to the Small Business Deregulation Task
+Force Report, which called for a single identifier to simplify business dealings with the Australian
+Government. A client’s ABN is available to State, Territory and local government regulatory bodies
+to streamline registration requirements.
+
+Automatic issuance of TINs to all residents for tax purposes:
+
+Individual: No
+
+If no, instances where individuals are not being automatically issued a TIN are:
+
+An Australian TIN (Tax File Number, or TFN) is not automatically issued to all residents. A TFN is
+obtained by individuals upon application. Individuals generally use a TFN to interact with the Australian
+Taxation Office for various purposes and therefore most individuals have a TFN. This includes lodging
+income tax returns, reporting information to the ATO, obtaining government benefits and obtaining an
+Australian Business Number (ABN) in order to carry on a business. Under Australian law a person cannot
+be compelled to have a TFN or quote it to another person. However, withholding tax at the highest
+marginal tax rate (49%) generally applies to individuals who do not provide a TFN to third parties such as
+employers and contractors they receive payments from.
+
+Entities (as defined by the CRS): No
+
+Similar to TFNs for individuals, entities and individuals carrying on a business are not automatically
+issued an ABN. They must apply for one using their TFN. An ABN is required for dealings with the
+Australian Taxation Office and other government agencies such as registering for goods and services tax
+and meeting other legal and regulatory obligations, and therefore most entities have an ABN. Failure to
+quote an ABN to counterparties in business dealings also generally results in the entity or individual being
+subject to withholding tax at the highest marginal tax rate (49%).
+
+Section II – TIN Structure
+
+The TFN is an eight or nine digit number compiled using a check digit algorithm to allow accurate data
+capture of the TFN in ATO systems. Generally the TFN is displayed on correspondence as three sets of
+three numbers (for example XXX XXX XXX) but is stored as an eight or nine number string on internal
+systems.
+
+The ABN is a unique 11 digit number formed from a nine digit unique identifier and two prefix check
+digits. The two leading digits (the check digits) will be derived from the subsequent nine digits using a
+modulus 89 check digit calculation. The check digits will be included to identify common data entry
+errors such as digit transposition. The ABN will be structured as XX XXX XXX XXX.
+
+For bodies registered under Corporations Law, their ABN will be formed by prefixing two digits to their
+Australian Company Number or Australian Registered Business Number issued by the Australian
+Securities and Investment Commission (ASIC). These companies must have their identity established
+and first register with ASIC prior to the normal registration process for an ABN. The ABN will
+eventually replace the ACN and the ARBN.
+
+Section III – Where to find TINs?
+
+An individual or entity is advised of their TFN or ABN in writing upon finalisation of the application
+and the number will be visible in secure online interfaces. A TFN may also be found on employment
+payment summaries, share statements, health insurance documentation, and superannuation
+statements. The TFN or ABN may also be used as a reference on certain ATO correspondence and
+assessments (see sample below).
+
+Businesses are encouraged to include ABN details on business stationery, especially invoices. If ABN
+details are not disclosed, payments from business clients are subject to withholding tax at a rate of 49 per
+cent.
+
+Businesses with an ABN are identified on the publicly available Australian Business Register (ABR)
+which can be consulted through the ABN Lookup tool, among other things, to verify the attribution of an
+ABN to an account holder for CRS purposes, an Australian business name, or GST status. Only some of
+the information provided by ABN applicants is publicly available.
+
+Section IV – TIN information on the domestic website
+
+For more information on TFNs for individuals please visit the TFN website for individuals on
+ato.gov.au (alternatively to reach this website search for ‘QC 22600’ on ato.gov.au). Similarly, for
+more information regarding TFNs for non-individuals please visit the TFN website for non-
+individuals on ato.gov.au (alternatively search for ‘QC 31784’).
+
+For more information regarding ABNs please visit abr.gov.au and search for ‘QC 182’.
+Verification of TFN is available to businesses and superannuation funds registered for access to
+EmployerTICK and SuperTICK respectively. More information on these programs can be found by going
+to ato.gov.au and searching for ‘QC 39672’ for Employers and ‘QC 35377’ for superannuation funds.
+
+To search for an ABN or its publicly available information please visit abr.business.gov.au and use the
+ABN Lookup tool.
+
+Section V – Contact point for further information
+
+The following website contains information about contacting the ATO in relation to TINs and other
+questions: https://www.ato.gov.au/About-ATO/About-us/Contact-us/

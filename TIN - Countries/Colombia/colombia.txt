@@ -1,0 +1,208 @@
+Jurisdiction’s name: Colombia
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Please provide here a narrative description of the criteria governing the issuance of the TIN (e.g.
+some jurisdictions may only issue TINs to individuals, or to individuals that are filing tax returns; other
+jurisdictions may also issue TINs to (a subset of) Entities). In addition, information about the TIN
+issuing bodies, as well as the taxes for which the TIN is used as means of identification (e.g. income
+tax, wage tax, withholding taxes, VAT, etc.). In case a jurisdiction issues separate TINs for different
+taxes (e.g., income taxes, VAT, etc.), please only provide information in relation to the TINs you
+would expect to be provided for identification purposes in the context of the CRS.
+
+Furthermore, jurisdictions may provide any useful information regarding the validity and frequency of
+renewal of TINs, as well as any recent changes made to the structure of their TINs.
+
+Any further information regarding TINs that jurisdictions deem useful for publication on the CRS
+Portal may also be added in this narrative section.
+
+De conformidad con el artículo 555-1 del Estatuto Tributario, el número de identificación tributaria,
+NIT, es el número de identificación que asigne la Dirección de Impuestos y Aduanas Nacionales a
+los contribuyentes, responsables, agentes retenedores y declarantes para efectos tributarios y debe
+ser utilizado cuando esta entidad lo señale.
+
+La asignación del NIT se realiza mediante la inscripción en el Registro Único Tributario – RUT, que
+es el mecanismo utilizado para identificar, ubicar y clasificar a los sujetos de obligaciones
+administradas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales
+(DIAN), así como aquellos que por disposición legal deban hacerlo o por decisión de la Unidad
+Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) conforme con las
+normas legales y reglamentarias vigentes (artículo 1.6.1.2.2 Decreto 1625 de 2016).
+
+In accordance with article 555-1 of the Tax Code, the tax identification number (TIN), is the
+identification number assigned by the National Tax and Customs Directorate (DIAN) to taxpayers,
+responsible parties, withholding agents and those obliged to file tax returns and must be used when
+this entity indicates.
+
+The assignment of the TIN is carried out through the registration in the Tax Registry (RUT), which is
+the mechanism used to identify, locate and classify the subjects of obligations managed by the
+National Tax and Customs Directorate (DIAN), as well as those that by legal provision must do so or
+by decision of the National Tax and Customs Directorate (DIAN) in accordance with current legal and
+regulatory standards (article 1.6.1.2.2 of the Decree 1625 of 2016).
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals No 
+Entities No
+
+Section II – TIN Structure
+
+This section contains information on the alphanumeric structure of the TIN, the use of slashed, capital
+letter, hyphens, etc. In addition, please outline here the meaning given to the numbers and letters
+that make up the TIN (including for instance the use of check digits).
+
+En la actualidad, el Número de Identificación Tributaria – NIT asignado por la DIAN a las Personas
+jurídicas, sociedades de hecho y otros entes estatales o privados y asimilados a estas, está
+compuesto por 9 dígitos más un dígito de verificación calculado por la DIAN. (Orden Administrativa
+4 de 1989). Los NIT asignados a este tipo de organizaciones se encuentran entre el rango
+800000000 a 899999999 y en forma ascendente desde 900000000.
+
+Para las personas naturales el Número de Identificación Tributaria NIT está compuesto desde 1 y
+hasta 13 dígitos más un digito de verificación. La configuración del Número de Identificación
+Tributaria es la siguiente:
+
+Para las cédulas de ciudadanía con números de identificación en el rango del 1 al número 99999999,
+el NIT corresponde al mismo número de la cédula más un dígito de verificación.
+
+Para los tipos de identificación tarjeta de identidad y registro civil, expedidos con anterioridad al
+Número Único de Identificación Personal (NUIP), se asigna un NIT en el rango numérico
+comprendido entre 700000001 hasta 799999999, más un dígito de verificación.
+
+Para las personas naturales con nacionalidad diferente a la colombiana, identificados con tipos de
+documentos de identificación como pasaporte, cedula de extranjería, tarjeta de extranjería, Permiso
+Especial de Permanencia PEP, Permiso por Protección Temporal PPT, entre otros; se asigna un
+número en el rango del 600000001 al 799999999, más un dígito de verificación.
+
+Los colombianos cuyo número de identificación se encuentra a partir del número 1000000000, el
+NIT corresponde al mismo número de identificación más un dígito de verificación.
+
+En todos los casos, el NIT tiene adicionalmente un dígito de verificación asignado por el sistema de
+información, el cual no se considera como número integrante del NIT. Su función es individualizar
+de forma exclusiva al cliente y garantizar la veracidad de su expedición y la exclusividad para el
+contribuyente al que se asigna.
+
+Currently, the Tax Identification Number – TIN assigned by the National Tax and Customs Directorate
+(DIAN) to legal entities, de facto companies and other state or private entities and assimilated to
+these, consists of nine (9) digits plus a verification digit included by the National Tax and Customs
+Directorate (DIAN) (Administrative Order 4 of 1989). The TINs assigned to this type of organization
+are between the range 800000000 to 899999999 and ascending from 900000000.
+
+For individuals, the Tax Identification Number – TIN consist of 1 and up to 13 digits plus a verification
+digit included by the National Tax and Customs Directorate (DIAN). The configuration of the Tax
+Identification Number is as follows:
+
+For citizenship cards with identification numbers in the range of 1 to 99999999, the TIN corresponds
+to the same number of the citizenship card plus a verification digit.
+For the identification types of identity card and civil registry, issued prior to the Unique Personal
+Identification Number (NUIP), a TIN is assigned in the numerical range between 700000001 to
+799999999, plus a verification digit.
+
+For individuals with a nationality other than Colombian, identified with types of identification
+documents such as passport, foreigner identification, Special Stay Permission (PEP), Temporary
+Protection Permission (PPT), among others; a TIN is assigned in the numerical range between
+600000001 to 799999999, plus a verification digit.
+
+For Colombians whose identification number is from the number 1000000000, the TIN corresponds
+to the same identification number plus a verification digit.
+
+In all cases, the TIN additionally has a verification digit assigned by the information system, which is
+not considered as an integral number of the TIN. Its function is to exclusively individualize the client
+and guarantee the veracity of its issue and the exclusivity for the taxpayer to whom it is assigned.
+
+Section III – Where to find TINs
+
+Please list here the official documents where the TIN can be found, such as the photo page of
+passports, social security cards, corporate documents, etc. Ideally, jurisdictions would provide scans
+of the documents on which they would highlight the place where the TIN can be found.
+
+El documento oficial emitido por la Unidad Administrativa Especial Dirección de Impuestos y
+Aduanas Nacionales (DIAN) es el Formulario RUT y el NIT (o TIN) se encuentra en el encabezado
+de cada hoja en la casilla número 5.
+
+Según lo estipulado en el artículo 619 del Estatuto Tributario colombiano, existen diferentes tipos de
+documentos oficiales en los que las personas están obligadas a reportar el NIT (o TIN). En los
+membretes de la correspondencia, facturas, recibos y demás documentos de toda empresa y de
+toda persona natural o institución de cualquier naturaleza, que reciban pagos por razón de su objeto
+social, actividad o profesión, deberán haber impreso o especificado el NIT junto con la razón social
+o profesional. También se puede encontrar en las declaraciones tributarias que maneja la DIAN.
+The official document issued by the National Tax and Customs Directorate (DIAN) is the Tax Registry
+Form (RUT) and the TIN is the top of each of the sheets, on the box number 5.
+
+As stipulated in article 619 of the Colombian Tax Statute, there are different types of official
+documents in which people are required to report the TIN. In the letterheads of the correspondence,
+invoices, receipts and other documents of any company and of any individual or institution of any
+nature, which receive payments by reason of their corporate purpose, activity or profession, they
+must have printed or specified the TIN together with company or professional name. It can also be
+found in the tax returns filed before the National Tax and Customs Directorate (DIAN).
+
+Section IV – TIN information on the domestic website
+
+Please provide here hyperlinks to their domestic website where further information on TINs can be
+found. In addition, please provide a link to an online TIN-verification tool, if available.
+
+En el sitio web de la DIAN en www.dian.gov.co se encuentra disponible el micrositio "RUT" donde
+los usuarios pueden encontrar toda la información y herramientas necesarias para tramitar el
+Identificativo, disponible en:
+
+https://www.dian.gov.co/impuestos/personas/Paginas/rut.aspx
+
+El micrositio RUT contiene las siguientes opciones:
+
+Generalidades: Encuentre información general sobre el RUT, sus destinatarios, la Normatividad,
+preguntas y trámites
+
+Herramientas Prácticas: Descargue las cartillas, infografías y los videos tutoriales sobre el trámite
+
+Firma electrónica: Ayudas para generar la firma electrónica
+
+Inscríbase en el RUT: servicio de inscripción en el registro y tutoriales
+
+Actividad Económica RUT: Información sobre actividades económicas
+
+Inscripción o Actualización del Registro Único Tributario (RUT) para las personas naturales que se
+encuentren en el exterior.
+
+Servicios y Trámites: Guía sobre los trámites asociados al RUT
+
+Contáctenos: Información de puntos de contacto y asistencia telefónica
+
+The Tax Registry microsite is available on DIAN’s website at www.dian.gov.co, where users can find
+all the information and tools necessary to process the TIN, at:
+
+https://www.dian.gov.co/impuestos/personas/Paginas/rut.aspx
+
+The Tax Registry (RUT) microsite contains the following options:
+
+Generalities: Find general information about the RUT, its recipients, the Regulations, questions and
+procedures.
+
+Practical Tools: Download the brochures, infographics and tutorial videos of the procedure.
+
+Electronic signature: Assistance to generate the electronic signature.
+
+Enroll in the RUT: enrollment service in the registry and tutorials.
+
+Economic Activity in the RUT: Information on economic activities.
+
+Registration or Updating of the Tax Registry for individuals who are abroad.
+
+Services and Procedures: Guide on the procedures associated with the RUT.
+
+Contact us: Information of points of contact and telephone assistance.
+
+Section V – Contact point for further information
+
+Please provide here the contact details of the competent service authority, which can be contacted
+in case of further questions on TINs.
+
+Juan Guillermo Caicedo Useche
+jcaicedou@dian.gov.co
+Subdirector de Administración del Registro Único Tributario
+Deputy Director of Administration of the Tax Registry
+Claudia Consuelo Vargas Cifuentes
+cvargasc@dian.gov.co
+Jefe Oficina de Tributación Internacional
+Head of International Taxation Office

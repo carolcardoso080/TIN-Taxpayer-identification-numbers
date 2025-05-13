@@ -1,0 +1,70 @@
+Jurisdiction’s name: Nigeria
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+In Nigeria, TIN is issued to both individuals and business entities. Individuals in
+employment are given TIN by the States Board of Internal Revenue/Federal
+Capital Territory Inland Revenue Service (JTB TIN) while members of the armed
+forces of Nigeria, Nigeria Police Force, diplomat, and corporate entities are
+issued TIN by the Federal Inland Revenue Service (FIRS). The TIN is a unique
+identification number to be used by all registered persons/entities for payment of
+all tax types. Nigeria does not issue separate TIN for different taxes.
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals
+
+[Yes/No] Yes
+
+Entities
+
+[Yes/No] Yes
+
+Question 2a – If you answered No to Question 1 with respect to individuals, describe those instances
+where individuals are not being automatically issued a TIN.
+
+Response:
+
+Question 2b – If you answered No to Question 1 with respect to Entities (as defined by the CRS), describe
+those instances where Entities are not being automatically issued a TIN.
+
+Response:
+
+Section II – TIN Structure
+
+TIN issued by the FIRS comprises of numerical values with a hyphen. The structure is eight
+digits, a hyphen then the 0001 e.g., 12345678-0001 while that of the JTB is purely numerical
+and contains 10 digits.
+
+Section III – Where to find TINs
+
+i. Tax Clearance Certificate (individual and corporate)
+
+ii. Annual tax returns form
+
+iii. Payment receipts issued by designated collecting banks
+
+iv. VAT certificates and invoices
+
+v. JTB tax card
+
+vi. Revenue receipts issued by tax authorities
+
+Section IV – TIN information on the domestic website
+
+i. The link for individual consultation of TIN (issued by JTB);
+https://tinverification.jtb.gov.ng/
+
+ii. The link for entity consultation of TIN (issued by FIRS);
+https://apps.firs.gov.ng/tinverification/
+
+Section V – Contact point for further information
+
+Please provide here the contact details of the competent service authority, which can be contacted in case of
+further questions on TINs.
+
+

@@ -1,0 +1,72 @@
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Individuals
+
+Finland issues TINs which are reported on official documents of identification. The TIN is the
+Finnish Social Security number, given at birth or when immigrating by the Digital and Population
+Data Services Agency.
+
+Legal persons
+
+The Business ID (Business Identity Code) is a code given to businesses and organizations by the
+authorities. A new business will get a Business ID as soon as the authorities have entered the start-up
+notification in the Business Information System. The registration authorities will provide the
+Business ID in approximately two working days from the filing of such notification.
+
+Section II – TIN Structure
+
+The structure of the TIN varies depending on the type of taxpayer.
+
+For individuals, it consists of 11 characters:
+- 6 digits
+- 1 character which can be + (plus), - (minus) or the letter Y, X, W, V, U, A, B, C, D, E, F
+- 3 digits
+- 1 alphanumeric character
+
+The 7th character (+, - or a letter) represents the century of birth and cannot be skipped: it shall be
+duly noted down and reported in all records. Character + means born 1800-1899, character - or letter
+Y, X, W, V, U means born 1900-1999 and letter A, B, C, D, E, F means born in 2000 or after that.
+
+These characters have no other meaning.
+
+For legal persons, it consists of seven digits, a dash and a control mark, i.e. it has the form
+1234567-8.
+
+Section III – Where to find TINs?
+
+TINs for individuals are reported on the following official documents of identification:
+Identity card (Henkilökortti / Identitetskort)
+
+Information on TIN: Reform of personal identity code | Digital and population data services
+agency
+
+TIN national contact point
+
+Contact: Digital and Population Data Services Agency
+P.O.Box 123
+FI-00531Helsinki,
+Finland
+email: kirjaamo@dvv.fi
+
+TINs for legal persons are publicly available on www.ytj.fi/english
+
+Section IV – TIN information on the domestic website
+
+TIN-information for individuals:
+
+Check the TIN
+https://www.vero.fi/en/About-us/contact-us/forms/filling-
+instructions/check_the_structure_of_tin_code/
+
+TIN-information for legal persons:
+www.ytj.fi/en/index/businessid.html
+
+TIN-search tool for legal persons:
+https://tietopalvelu.ytj.fi/
+
+Section V – Contact point for further information
+
+Website of the Finnish Tax Administration: www.vero.fi/en
+Document updated February 2025

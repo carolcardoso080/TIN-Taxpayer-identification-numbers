@@ -1,0 +1,87 @@
+      Jurisdiction’s name:                                                           Hungary
+
+                                     Information on Tax Identification Numbers
+
+    Section I – TIN Description
+
+    For individuals Hungary issues TINs which are not indicated on official documents of identification. The
+    paying agent has to indicate this number on the payment documents. The TIN for individuals in Hungarian is
+    called: “adóazonosító jel”.
+
+    However individuals wishing to pursue business activities that incur entrepreneurial tax or VAT
+    payment liability shall also have to obtain the type of TIN issued to entities (“adószám”).
+
+    Entities wishing to pursue taxable activities shall register with the state tax authority in order to receive a tax
+    number. The registration procedure is governed by Act XCII of 2003 on the Rules of Taxation. For companies
+    the TIN is recorded in the register of companies. The TIN for entities in Hungarian is called: “adószám”.
+
+           Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+    Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+          Individuals                      [Yes]                       Entities                         [No¹]
+
+    Section II – TIN Structure
+
+     Format                                Explanation                            Comment
+
+     9999999999                            1 block of 10 digits, where:           TIN for individuals
+
+                                           digit 1 is always an 8 and             The syntax of the TIN is published
+                                           indicates that the TIN holder is an    in Act XX of 1996.
+                                           individual;
+
+                                           digits 2-6 are the number of days
+                                           between the date
+                                           01/01/1867 and the date of birth
+                                           of the individual;
+
+                                           digits 7-9 is the number generated
+                                           by chance to differentiate
+                                           individuals born on the same day;
+
+                                           digit 10 is the check digit
+     xxxxxxxx-y-zz                         Composed of 11 numerical               TIN for entities and certain
+                                           characters, where:                     Individuals
+
+                                           xxxxxxxx is a block of 8 digits        y and zz may change due to
+                                           which serves as the unique             change        in  taxpayer’s
+                                           identifier of the taxpayer;            circumstances
+
+                                           y is a so called “VAT code” which
+                                           indicates whether the taxpayer is
+                                           registered for VAT purposes (the
+                                           code is 2) or not (the code is 1);
+                                           
+                                           zz is the territorial code of the
+                                           competent tax office in Hungary
+
+
+¹In the case of entities, the issuance of TIN is not automatic: generally, entities have to initiate the issuance of
+TIN at the Court of Registry during the incorporation procedure, while, in certain cases, the issuance of TIN can
+be provided directly by the tax authority.
+                                    
+
+Section III – Where to find TINs
+
+TINs for individuals are not reported on official documents of identification but they can be found on the
+Hungarian TIN card.
+
+Hungarian TIN card (old format)
+
+
+
+
+Hungarian TIN card (new format)
+
+
+
+
+Section IV – TIN information on the domestic website
+
+Further information in English can be found at the website of the National Tax and Customs Administration:
+http://en.nav.gov.hu/
+
+Section V – Contact point for further information
+Ms Edit Kucsera, chief expert of the National Tax and Customs Administration of Hungary: ki.utf@nav.gov.hu
+

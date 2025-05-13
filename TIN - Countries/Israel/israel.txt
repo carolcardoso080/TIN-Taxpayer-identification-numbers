@@ -1,0 +1,74 @@
+ Jurisdiction’s name:                                                      ISRAEL
+
+                              Information on Tax Identification Numbers
+
+Section I – TIN Description
+Please provide a narrative description of the criteria governing the issuance of the TIN (e.g. some
+jurisdictions may only issue TINs to individuals, or to individuals that are filing tax returns; other
+jurisdictions may also issue TINs to (a subset of) Entities). In addition, information about the TIN
+issuing bodies, as well as the taxes for which the TIN is used as means of identification (e.g. income
+tax, wage tax, withholding taxes, VAT, etc.). In case a jurisdiction issues separate TINs for different
+taxes (e.g. income taxes, VAT, etc.), please only provide information in relation to the TINs you
+would expect to be provided for identification purposes in the context of the CRS.
+
+Furthermore, jurisdictions may provide any useful information regarding the validity and frequency
+of renewal of TINs, as well as any recent changes made to the structure of their TINs.
+
+Any further information regarding TINs that jurisdictions deem useful for publication on the CRS
+Portal may also be added in this narrative section.
+
+
+
+       Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+      Individuals                  [Yes]                 Entities                  [Yes]
+
+
+
+Section II – TIN Structure
+This section contains information on the alphanumeric structure of the TIN, the use of slashed, capital
+letter, hyphens, etc. In addition, please outline the meaning given to the numbers and letters that make
+up the TIN (including for instance the use of check digits).
+
+The "TIN" for an Individual is his ID number.
+
+For companies – numbers, without special meaning.
+
+The Israeli TIN structure for a company / an individual includes only 9 numeric characters.
+
+
+Section III – Where to find TINs
+Please list the official documents where the TIN can be found, such as the photo page of passports,
+social security cards, corporate documents, etc. Ideally, jurisdictions would provide scans of the
+documents on which they would highlight the place where the TIN can be found.
+
+
+Individuals – ID cards.
+
+Companies – corporate documents.
+Section IV – TIN information on the domestic website
+
+Please provide hyperlinks to their domestic website where further information on TINs can be found.
+In addition, please provide a link to an online TIN-verification tool, if available.
+
+
+Section V – Contact point for further information
+Please provide the contact details of the competent service authority, which can be contacted in case
+of further questions on TINs.
+
+ Chilik Cohen,
+ EOI Manager
+
+ International Tax Division,
+ Israeli Tax Authority
+ E-mail: Chilikco@taxes.gov.il
+ Tel: 972-74-7614794.
+
+ 125 Menachem Begin Rd.
+ Tel Aviv 6701201
+ ISRAEL
+

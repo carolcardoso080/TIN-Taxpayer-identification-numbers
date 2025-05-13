@@ -1,0 +1,67 @@
+Netherlands - Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+A TIN is allocated:
+
+Natural persons: At birth or at registration at the municipality
+
+Non-natural persons: At entry in the register of business names (handelsregister)
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals
+
+Yes
+
+Entities
+
+Yes
+
+Section II – TIN Structure
+
+The Dutch TIN has 9 digits: 999999999.
+Validation rule and check digid:
+
+1.
+
+The TIN always has 9 digits: N1, N2, N3, N4, N5, N6, N7, N8, N9
+N9 is a check digit.
+
+2.
+
+Algorithm for check digit:
+((N1*9) + (N2*8) + (N3*7) + (N4*6) + (N5*5) + (N6*4) + (N7*3) + (N8*2)) modulo 11
+Check digit (N9) = remainder from above algorithm
+
+If remainder = 10, the TIN is not valid.
+
+TIN-check-module: https://ec.europa.eu/taxation_customs/tin/tinRequest.html
+
+Section III – Where to find TINs?
+
+A TIN for individuals is recorded on a passport, driving license and identity card. All information can be found
+on: https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-taxation/tin-taxpayeridentification-number_en
+
+Section IV – TIN information on the domestic website
+
+EU online verification tool for the Netherlands: TIN on-the-Web - European Commission
+
+Section V – Contact point for further information
+
+For further information please visit the
+
+The Citizen Service Number (BSN) | Identification documents | Government.nl
+You can also contact the Client Service of the Dutch Tax and Customs Administration by
+phonenumber +31.55.538.53.85
+(Open: Monday - Thursday 08:00-20:00 – Friday 08:00-17:00)
+Address:
+Dutch Tax and Customs Administration/Limburg/ Foreign Office
+Kloosterweg 22
+Postbus 2865
+6401 DJ Heerlen
+The Netherlands
+
+

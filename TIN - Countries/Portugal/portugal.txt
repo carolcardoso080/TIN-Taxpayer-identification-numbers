@@ -1,0 +1,82 @@
+                      Portugal - Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+
+The Tax and Customs Authority is the entity competent to allocate a tax identification number for
+individuals. The tax identification number allocated is a single one and will serve every legal effect.
+In order to register the beginning of the activity, prior existence of an allocated tax identification
+number is mandatorily necessary.
+
+For legal persons, the allocation of the identification number is performed by the Registo Nacional de
+Pessoas Coletivas (RNPC, National Registration for Legal Persons), a service belonging to the
+Instituto dos Registos e Notariado (Institute for Registration and Notary Affairs), which reports to the
+Ministry of Justice.
+
+The tax identification number corresponds to the identification number of legal persons allocated by
+RNPC. Thus, there is a single identification for legal persons, both at commercial and tax levels,
+allowing a complete interoperability in the transmission of data between entities.
+
+The TIN has no date of validity; therefore once obtained it will remain the same until the dissolution
+of the legal entity or the death of the individual.
+     Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+       Individuals                  Yes                    Entities                    Yes
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the CRS),
+describe those instances where Entities are not being automatically issued a TIN.
+Section II – TIN Structure
+ The structure of the numbering System consists by 9 sequential digits with a control digit.
+The structure of fiscal numbers depending on the type of taxpayer.
+    • For individuals:
+        1xx xxx xxx
+        2xx xxx xxx
+        3xx xxx xxx (not allocated yet)
+
+    •   For individuals – non-residents (only subject to final withholding at source):
+        45x xxx xxx
+
+    •   For Corporations and Public entities:
+        5xx xxx xxx
+
+    •   For State:
+        6xx xxx xxx
+
+    •   For Inheritances, Corporations – non-residents (only subject to final withholding at source)
+        and Investment Funds, respectively:
+        70x xxx xxx
+        71x xxx xxx
+        72x xxx xxx
+
+    •   For Irregular Companies and others:
+        90x xxx xxx
+        91x xxx xxx
+
+    •   For Corporations - non-residents (with or without permanent establishment):
+        98x xxx xxx
+
+    •   For Civil Partnerships:
+        99x xxx xxx
+Section III – Where to find TINs?
+TINs can be found in the following official documents:
+For individuals:
+        - Citizen card (emission by the Ministry of Justice); and
+        - Taxpayer card (emission by the Ministry of Finance – Tax and Customs Authority);
+
+For legal entities:
+        - Society card (emission by the Ministry of Justice); and
+        - Corporation card (emission by the Ministry of Justice).
+
+Section IV – TIN information on the domestic website
+https://dre.pt/application/file/256919
+
+Section V – Contact point for further information
+
+Directorate of Taxpayer Registration (DSRC)
+
+E-Mail: dsrc@at.gov.pt

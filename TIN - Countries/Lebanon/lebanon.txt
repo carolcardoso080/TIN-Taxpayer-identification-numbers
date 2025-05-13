@@ -1,0 +1,76 @@
+               Jurisdiction’s name:                                           LEBANON
+
+                        Date                                               September 2017
+
+
+                               Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Please provide a narrative description of the criteria governing the issuance of the TIN (e.g. some
+jurisdictions may only issue TINs to individuals, or to individuals that are filing tax returns; other
+jurisdictions may also issue TINs to (a subset of) Entities). In addition, information about the TIN issuing
+bodies, as well as the taxes for which the TIN is used as means of identification (e.g. income tax, wage
+tax, withholding taxes, VAT, etc.). In case a jurisdiction issues separate TINs for different taxes (e.g.
+income taxes, VAT, etc.), please only provide information in relation to the TINs you would expect to be
+provided for identification purposes in the context of the CRS.
+Furthermore, jurisdictions may provide any useful information regarding the validity and frequency of
+renewal of TINs, as well as any recent changes made to the structure of their TINs.
+Any further information regarding TINs that jurisdictions deem useful for publication on the CRS Portal
+may also be added in this narrative section.
+
+
+As per Article 34 of the Tax Procedure Code and article 59 of the Decision number 453/1 dated 22/4/2009
+, the conditions for giving TIN are as follows:
+-The tax administration issue a single tax identification number for all types of taxes, including customs
+and real estate fees. The TIN is issued not only to those filing tax returns but also to those tax liable with
+no tax returns (ex. property tax "under a certain threshold")
+
+ -The Tax Administration shall issue a tax identification number (TIN) to:
+• a physical person performing a business individually or as a partner in a partnership or contributing or
+holding shares in a company, or having a real estate in Lebanon, or subject to inheritance tax or any
+other tax liability.
+• a profession, an establishment, a partnership , a corporation or a company or a joint venture
+• an employee practicing work on the Lebanese soil, whether the employer was a resident or a non
+resident
+• governmental entities, municipalities, associations or any other body having a tax liability.
+
+Note: The TIN of a physical person is different than the TIN issued to its profession, establishment,
+partnership , corporation or company
+
+Section II – TIN Structure
+
+This section contains information on the alphanumeric structure of the TIN, the use of slashed, capital
+letter, hyphens, etc. In addition, please outline the meaning given to the numbers and letters that make up
+the TIN (including for instance the use of check digits).
+The TINs are given based on numerical serial without the use of any letters,
+
+
+
+Yet the TIN for entities registered in VAT are followed by a dash and a code (601 for the taxpayers subject
+to VAT, 603 and 604 for refund purposes...)
+
+
+Section III – Where to find TINs?
+
+Please list the official documents where the TIN can be found, such as the photo page of passports, social
+security cards, corporate documents, etc. Ideally, jurisdictions would provide scans of the documents on
+which they would highlight the place where the TIN can be found.
+The official documents where the TIN can be found are the registration certificate issued to entities, or the
+tax identification card issued to physical persons , or any other official certificate issued by the
+departments of the Revenue Directorate.
+
+Section IV – TIN information on the domestic website
+
+Please provide hyperlinks to their domestic website where further information on TINs can be found. In
+addition, please provide a link to an online TIN-verification tool, if available.
+TPC is available at: http://www.finance.gov.lb/ar-lb/Taxation/LRT/TP
+"The TIN –verification tool" is not available on the ministry of finance website
+
+Section V – Contact point for further information
+
+Please provide the contact details of the competent service authority, which can be contacted in case of
+further questions on TINs.
+Mr Louay Hajj Chehade (Revenue Director)
+e-mail: louayc@finance.gov.lb
+phone: 00 961 1 429 003

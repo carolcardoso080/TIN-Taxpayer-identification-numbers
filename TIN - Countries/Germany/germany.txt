@@ -1,0 +1,77 @@
+  Jurisdiction’s name:                                                     Germany
+
+                               Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+
+ The Federal Central Tax Office (Bundeszentralamt für Steuern) issues a uniform and permanent tax
+ identification number (TIN) to every individual who is subject to tax, for purposes of unambiguous
+ identification in taxation procedures. Taxpayers (and third parties who must submit a taxpayer’s data
+ to the revenue authorities) must indicate this TIN on applications, declarations or notifications
+ submitted to the revenue authorities (sections 139a and 139b of the Fiscal Code).
+
+ In addition to the taxpayer’s TIN, the Federal Central Tax Office stores the information specified in
+ section 139b of the Fiscal Code (name, address, date of birth, etc.).
+
+ Access to the data stored in connection with a taxpayer’s TIN is granted exclusively to German
+ revenue authorities within the context of the tasks assigned to them by law.
+
+ In the future, legal persons, associations of persons and economic actors subject to tax are to be
+ assigned a business identification number (sections 139a and 139c of the Fiscal Code). The procedure
+ for introducing and issuing business identification numbers is currently being developed.
+        Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+      Individuals                    Yes                       Entities                     No
+
+Question 2a – If you answered No to Question 1 with respect to individuals, describe those instances
+where individuals are not being automatically issued a TIN.
+
+Response:
+
+Question 2b – If you answered No to Question 1 with respect to Entities (as defined by the CRS), describe
+those instances where Entities are not being automatically issued a TIN.
+Response:
+As long as the TINs for entities haven’t been issued in Germany, the order criterion will be the tax
+number.
+Section II – TIN Structure
+
+ TINs are comprised of 11 digits: 10 digits plus one check digit.
+
+ TINs are non-descriptive numbers, i.e. they provide no indications as to a taxpayer’s name, gender
+ or other tax-related information.
+Section III – Where to find TINs
+
+
+ The Federal Central Tax Office promptly sends a written notice to taxpayers informing them of the
+ TIN that has been issued to them and the data that has been stored together with the TIN.
+
+
+                                     (see attached pdf file).
+ A taxpayer’s TIN is also indicated on tax assessment notices and correspondence from revenue
+ authorities.
+ Taxpayers (and third parties who must submit a taxpayer’s data to the revenue authorities, such as
+ financial institutions) must indicate this TIN on applications, declarations or notifications submitted
+ to the revenue authorities.
+
+ The use of TINs is permissible exclusively within the context of taxation procedures. The use of
+ TINS in other official documents such as identity cards or pension insurance cards is not permitted.
+
+Section IV – TIN information on the domestic website
+
+Information on tax identification numbers can be found on the Federal Central Tax Office’s website
+at:
+
+https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/
+steuerlicheidentifikationsnummer_node.html
+
+Section V – Contact point for further information
+The contact points for questions regarding tax identification numbers are the competent tax offices or
+the Federal Central Tax Office:
+
+Federal Central Tax Office An der Kueppe 1
+53225 Bonn
+Phone: +49 228 406 1240 (Monday to Friday, 8:00 am to 4:00 pm)
+

@@ -1,0 +1,285 @@
+               POLAND – Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+I. TIN description
+1.1. PESEL description
+As from 1st September 2011, Poland recognizes as a tax identification number the PESEL number issued to natural persons
+registered in PESEL register and who do not conduct business activity and are not registered for value added tax purposes.
+
+PESEL is a 11-digit, constant numeric symbol, that uniquely identifies a specific individual registered in the PESEL database
+(the Common Electronic System of Population Register). Data stored in the Common Electronic System of Population Register
+is transferred from the municipal offices' database, which are the municipal registration records.
+
+PESEL register operates since 1977 and contains details of persons residing permanently in the territory of the Republic of
+Poland, domiciled for permanent or temporary (more than 3 months) residence and persons applying for an identity card or
+passport, as well as people who under the provisions of Polish law need to have a social security number. PESEL numbers are
+issued by the Ministry of Internal Affairs.
+
+1.2. TIN description
+As from 1st of September 2011, Poland issues TINs to other entities, which are subject to registration (i.e. individuals, legal
+persons, individuals who do not have the legal personality and other entities) provided that, according to the Polish acts, they
+are defined as taxpayers or payers of social security or health insurance contributions.
+
+However, TIN number assigned to the date 31st August 2011 becomes a tax identification number under the provisions of Act
+of 29 July 2011 concerning the rules governing registration and identification (Official Journal No 171, item 1016), and thus
+decisions on granting such a tax identification number remain in force.
+
+Section II – TIN Structure
+
+2.1. PESEL structure
+  PESEL Format                      [C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11]         Where C1 to C11 are characters.
+
+
+  Range                             C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11           A numeric.
+
+
+                                                       C1-C2              Stand for the last numbers of the year of birth.
+
+                       RULE
+                                                       C3-C4              Stand for the month of birth. However for birthdates
+                                                                          between 1900 and 1999 no change to C3-C4 is made,
+                                                                          for other birthdates:
+
+
+                                                                          1800-1899 - month field is increased by 80
+                                                                          2000-2099 - month field is increased by 20
+                                                                          2100-2199 - month field is increased by 40
+                                                                          2200-2299 - month field is increased by 60
+
+
+                                                                          The adopted method of coding the month of birth
+                                                                          allows to distinguish a least five centuries.
+
+
+                                                                          Therefore the following months in the various
+                                                                          centuries, will have the following numbers:
+                                                                           Stand for the day of the birth.
+
+
+
+                                                               
+                                      Stand for an ordinal numer.
+
+
+                                                                             CENTURY
+                RULE
+                                         MONTH 1800- 1900- 2000- 2100-                  2200-
+                                                                 2199
+                                               1899 1999 2099                           2299
+
+                                     JANUARY             81    01       21         41         61
+                                     FEBRUARY            82    02       22         42         62
+                                     MARCH               83    03       23         43         63
+                                     APRIL               84    04       24         44         64
+                                     MAY                 85    05       25         45         65
+                                     JUNE                86    06       26         46         66
+                                     JULY                87    07       27         47         67
+                                     AUGUST              88    08       28         48         68
+                                     SEPTEMBER           89    09       29         49         69
+                                     OCTOBER             90    10       30         50         70
+                                     NOVEMBER            91    11       31         51         71
+                                     DECEMBER            92    12       32         52         72
+
+
+                       C5-C6          Denotes sex (digits 0, 2, 4, 6, 8 - for females and
+                       C7-C9          digits 1,3,5,7,9 - for males).
+
+                                      1. Multiply the values of each position by the
+                       C10            corresponding weight:
+                                           C1       1
+
+                       C11                  C2       3
+
+                                            C3       7
+
+                                            C4       9
+
+                                            C5       1
+
+                                            C6       3
+
+                                            C7       7
+
+                                            C8       9
+
+                                            C9       1
+
+                                            C10      3
+
+
+                                      2. Add up the last received number of the results
+                                      of the above multiplications;
+
+                                      3. Value of the last received number of the sum
+                                      deduct from 10;
+
+                                      4. The result of subtraction should be a check digit.
+
+
+
+                       02070803628   1. A person born on the 8 of July 1902, sex – female;
+              SAMPLE                 2. 0*1=0, 2*3=6, 0*7=0, 7*9=63, 0*1=0, 8*3=24,
+                                        0*7=0, 3*9=27, 6*1=6 2*3=6;
+                                     3.  0+6+0+3+0+4+0+7+6+6=32;
+                                     4.  10-2=8;
+                                     5.  Check digit =8.
+
+
+2.2. TIN structure
+
+
+
+                               
+  Structure: TIN Format           [C1, C2, C3, C4, C5, C6, C7, C8, C9, C10]            Where C1 to C10 are characters.
+
+
+  Structure: Range                C1, C2, C3, C4, C5, C6, C7, C8, C9, C10              A numeric.
+
+
+
+                                                                       1. Multiply the values of each position by the
+                                                                       corresponding weight:
+Syntax: RULE                                         C10
+                                                                                              C1       6
+                                                                                              C2       5
+
+                                                                                              C3       7
+
+                                                                                              C4       2
+
+                                                                                              C5       3
+
+                                                                                              C6       4
+
+                                                                                              C7       5
+
+                                                                                              C8       6
+
+                                                                                              C9       7
+                                                                       2. Add up the results of the above multiplications;
+                                                                       3. Get modulo 11 of the result of the previous addition;
+                                                                       4. Check digit = remainder (if remainder = 10, the TIN is
+                                                                       not valid).
+
+                                                     2234567895        1. 2*6=12, 2*5=10, 3*7=21, 4*2=8,5*3=15,6*4=24,
+Syntax: SAMPLE                                                         7*5=35, 8*6=48, 9*7=63;
+
+                                                                       2. 12+10+21+8+15+24+35+48+63=236;
+
+                                                                       3. 236% 11=5;
+
+                                                                       4. Check digit =5.
+Section III – Where to find TINs?
+
+3.1. PESEL
+PESELs are reported on official documents of identification. Please find information concerning the samples of presented
+documents on the following official websites:
+
+
+3.1.1. Passport
+
+
+
+
+                                                             
+3.1.2. ID card
+
+
+
+
+3.2. TIN
+TINs are not reported on official documents of identification, but they can be found on an official form of the head of a local
+tax office issuing TINs, i.e.:
+
+
+3.2.1. Decision (NIP-4) for TINs issued under the law applicable until 31st of August 2011
+
+
+
+
+                                                               
+3.2.2. Forms issued under the law applicable from the 1st of September 2011
+
+INDIVIDUAL
+PERSON
+
+
+
+
+COMPANY
+
+
+
+
+                                            
+3.2.3. TIN in the National Court Register
+From December 1st of 2014, the disclosure of TIN in the National Court Register or in the Central Registration and
+Information on Business confirms that it has been issued to that particular entity/individual. Therefore, TIN can be found in
+the following documents:
+
+
+3.2.3.1 Certificate from the Central Registration and Information on Business
+https://www.biznes.gov.pl/pl
+https://www.biznes.gov.pl/en
+
+Business account – Find company
+https://aplikacja.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx
+https://www.biznes.gov.pl/en/wyszukiwarka-firm/
+
+
+
+
+                                                               
+3.2.3.2 Information from the National Court Registry
+https://www.gov.pl/web/sprawiedliwosc/kontakt-krs
+
+
+
+
+Section IV – TIN information on domestic website
+
+Information on PESEL:           https://archiwum.mswia.gov.pl/pl/sprawy-obywatelskie/numer-
+                                pesel/14216,PESEL.html
+
+Information on TIN:             https://www.biznes.gov.pl/pl/portal/001406
+                                https://ppuslugi.mf.gov.pl/_/
+TIN online check:               Not available.
+Section V – Contact point for further information
+
+Information on PESEL:           Ministry of the         Phone: +48 222 500 112 from 8.15 a.m. to 4:00 p.m.
+                                Interior and
+                                Administration          https://www.gov.pl/web/gov/uzyskaj-numer-pesel--usluga-dla-
+                                                        cudzoziemcow-en
+
+Information on TIN:             National Tax            Phone: +48 22 330 0330
+                                Information
+                                (call-center)
+Section VI – Legal notice
+
+The information on Tax Identification Numbers (TINs) and the use of the TIN online check module provided on this European TIN
+Portal, are subject to a disclaimer, a copyright notice and rules relating to the protection of personal data and privacy.
+
+
+
+
+                                                                 
+Specific copyright notice for Ministry of Finance of Poland (2023).
+
+
+The content of the Polish web pages of the European TIN Portal is for general information purposes only and does not constitute
+advice. The Ministry of Finance gives no assurance or warranty regarding the accuracy, timeliness, or applicability of any of the
+contents.
+
+The Ministry of Finance assumes no responsibility for information contained on this Web site and assumes no liability in respect
+of such information. Specific disclaimers or copyright notices may apply in addition to certain content or parts of the site.
+Information on the Polish pages that is not subject to specific disclaimers or copyright notices is freely available and may be
+downloaded/reproduced/translated/adapted in all editions, forms and media for commercial or noncommercial purposes.
+
+The Ministry of Finance accepts no responsibility for and excludes all liability in connection with browsing this website, use of
+information or downloading any materials from it, including but not limited to any liability for errors, inaccuracies, omissions, or
+misleading or defamatory statements. The information on this Web site might include opinions or views which, unless expressly
+stated otherwise, are not necessarily those of the Ministry of Finance.
+
+This website contains links to external sites over which the services of the Ministry of Finance have no control and for which the
+Ministry of Finance assumes no responsibility.

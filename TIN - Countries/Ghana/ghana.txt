@@ -1,0 +1,117 @@
+    Jurisdiction’s
+                                                                        GHANA
+       name:
+
+                           Information on Tax Identification Numbers
+
+Section I – TIN Description
+The Commissioner General of the Ghana Revenue Authority (GRA) is mandated by the Revenue
+Administration Act,2016, (Act 915) as amended, to maintain a system of taxpayer identification
+numbers for the purpose of identification of taxpayer and promotion of tax compliance.
+Upon application, a Taxpayer Identification Number (TIN) is issued by the Commissioner General to:
+    a. A person who is liable to pay tax or ;
+    b. A person who conducts official business with specified institutions provided in the Revenue
+        Administration Act (RAA) ;
+when the Commissioner General is satisfied about the true identity of the applicant and that the
+applicant does not have an existing TIN.
+
+The two main categories of persons who may be issued with a TIN are :
+      Individuals
+      Organisations
+
+A Taxpayer Identification Number issued under Act 915 is not transferable
+
+From 1st April, 2021 the 15- character Ghanacard Personal Identification Number, (Ghanacard PIN)
+issued by the National Identification Authority (NIA), became the TIN for individuals who are eligible
+for the Ghanacard. The Non-citizen card of foreign individuals permanently resident in Ghana also
+serves as their TIN. The GRA is therefore integrated with the NIA for the purpose of issuing the
+common unique number (Ghanacard PIN) for tax purposes. Currently the existing TIN is used
+alongside the Ghanacard PIN until 31st December, 2021 when only the Ghanacard PIN of existing
+taxpayers will be accepted for all tax transactions.
+
+The GRA, however, continues to directly issue TIN to the following persons:
+      non-resident individuals
+      foreign mission employees
+      Organisations (both those required to register with the Registrar General Department
+          (RGD) and those not required to register with the RGD)
+Organisations that are required to register with the RGD initiate their TIN registration at the RGD as
+part of the entity registration process and are issued a TIN by the GRA in collaboration with the RGD.
+
+After identification of taxpayers the GRA further administers the appropriate tax types where
+necessary - i.e tax types that are applicable to each identified person are then registered
+appropriately for tax compliance purposes. There is no separate TIN for administration of tax types.
+
+   Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax
+purposes?
+     Individuals                 [No]                  Entities                  [No]
+
+Question 2a – If you answered No to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+Response: TIN is not issued automatically; It is upon application by the individuals to whom
+paragraph 1 above applies.
+Question 2b – If you answered No to Question 1 with respect to Entities (as defined by the
+CRS), describe those instances where Entities are not being automatically issued a TIN.
+Response: TIN is not issued automatically; It is upon application by entities to whom paragraph 1
+above applies. Limited Liability Companies, Foreign Missions, Government agencies
+registering their entities are provided TIN upon application.
+Section II – TIN Structure
+The GRA TIN is an 11-digit alpha-numeric number issued individuals who are not eligible for the
+Ghanacard PIN and entities, each with a unique prefix as follows:
+
+P00……….For Individuals
+C00………. For Companies limited by guarantee, shares, Unlimited (i.e organisation required to
+register with
+            the RGD)
+G00………. Government Agencies, MDAs
+Q00……….Foreign Missions, Employees of foreign missions
+V00……….Public Institutions, Trusts, Co-operatives, Foreign Shareholder (Offshore),( Entities not
+           registered by RGD)
+
+The NIA Ghanacard PIN now TIN for eligible individuals is a 15-digit number structured as follows:
+
+there are 3 parts : Country Code, 8 or 9 digit number, checksum character. Each of the elements
+are separated with a hyphen ‘-‘
+
+    1. The country code is the 3 letter ISO country code showing the nationality of the person at
+       first registration.
+    2. The 8/9 digit number is system generated.
+    3. The checksum character can be a number or character. This is used internally to validate
+       a PIN during the PIN creation process.
+
+Once a PIN has been assigned it cannot be changed. In cases where an individual changes
+nationality after their first registration the PIN will not change.
+
+Section III – Where to find TIN
+       Any return, claim, declaration, notice, statement ,or other documents for the purpose of a tax
+        law (TIN To be provided by taxpayer on the document)
+       Company Registration Certificate
+       Business Name Certificate
+       Taxpayer Identification Number Certificate
+
+Section IV – TIN information on the domestic website
+The GRA website : https://gra.gov.gh.
+TIN Information on website include :
+     Verify TIN – an online verification tool that enables the public to verify status of TINs for
+        individuals.
+     Update TIN - an online tool that enables the public to (i) view the status of TIN- Ghanacard
+        link requests and (ii) submit a TIN - Ghanacard link request, where the two numbers are not
+        automatically linked.
+     Organisation TIN form (for organisations that are not required to register with the RGD)
+     A write up on TIN
+
+Section V – Contact point for further information
+The Commissioner-General
+Ghana Revenue Authority
+Starlets 91 Road,
+Ministries – Accra
+P . O. BOX GP 2202, ACCRA-GHANA
+
++233 20926 7047
++233 20926 7048
++233 20926 7049
+
+Email: info@gra.gov.gh
+
+Website: https://gra.gov.gh
+

@@ -1,0 +1,117 @@
+Jurisdiction’s name: Uruguay
+
+Last update: 29.09.2017
+
+Information on Tax Identification Numbers
+
+Section I TIN Description
+
+The Single Register of Tax Payers Number (RUT for its acronym in Spanish) is the
+identification received by customers of the Tax Administration for tax purposes. (Physical or legal
+persons and other pluripersonal entities).
+
+The Tax Administration shall assign the RUT number according to:
+
+Legal persons and other multi-personal entities: RUC/T. The RUT number is
+a number provided by the Tax Administration and is used in the case of legal
+entities and certain physical persons carrying out business activities or who have
+been assigned a RUT number (example: commercial activity, services, net worth).
+
+IDCard: Identity Card for Physical Persons: a Card issued by the National
+
+Office of Civil Identification. This applies provided the Physical person does not
+have a RUT number in force.
+
+NIE Identification Number for Foreign Physical Persons. This is a
+number provided by the Tax Authority (RUT Department) to those foreign
+physical persons who do not have an Identity Card in force, issued by the
+National Office of Civil Identification, neither a RUT number.
+
+Additional information on the mandatory issuance of Tax Identification Numbers
+(TINs)
+
+Question 1 Does your jurisdiction automatically issue TINs to all residents for tax
+purposes?
+
+Automatic issuance of TINs to all residents for tax purposes:
+
+Individual: yes
+Entities (as defined by the CRS): yes
+
+In relation to this previous answer we would like to driving your attention in following points: the
+Single Register of Tax Payers Number (RUT for its acronym in Spanish) is the identification received
+by customers of the Tax Administration for tax purposes. (Physical or legal persons and other
+pluripersonal entities).
+
+The Tax Administration shall assign the RUT number according to:
+
+Legal persons and other multi-personal entities: RUT. The RUT number is a number provided by
+the Tax Administration and is used in the case of legal entities and certain physical persons carrying
+out business activities or who have been assigned a RUT number (example: commercial activity,
+services, net worth).
+
+IDCard: Identity Card for Physical Persons: a Card issued by the National Office of Civil
+Identification. This applies provided the Physical person does not have a RUT number in force.
+
+N This is a number provided
+
+by the Tax Authority (RUT Department) to those foreign physical persons who do not have an
+Identity Card in force, issued by the National Office of Civil Identification, neither a RUT number.
+
+Section II TIN Structure
+
+RUT NUMBER:
+
+This number is formed by 12 digits, the first two indicate the registration number, the following six
+sequential digits indicate the number and the last 4 are always where x is the
+verifying digit.
+
+Where:
+
+- NNNNNNNNNNN: is formed by eleven digits containing a unique number.
+
+- D: is formed by one digit containing the verification digit for the full number.
+
+FOREIGNERS` IDENTIFICATION NUMBER N I E
+
+This number is formed by 9 digits, with the following definition:
+
+- 9NNNNNNN: is formed by eight digits containing a unique number.
+
+- D: is formed by one digit containing the verification digit for the full number.
+
+Identity Card Number:
+
+This number is granted by the DNIC (National Direction of Civil Identification), and is formed by 7
+numbers, plus a verifying digit. For our RUT records, we register the number without any points or
+hyphens.
+
+Section III Where to find TINs?
+
+Please list the official documents where the TIN can be found, such as the photo page of passports,
+social security cards, corporate documents, etc. Ideally, jurisdictions would provide scans of the
+documents on which they would highlight the place where the TIN can be found.
+
+RUT NUMBER:
+
+Section IV TIN information on the domestic website
+
+Register of Physical Persons with IDCard or NIE:
+
+http://www.dgi.gub.uy/wdgi/page?2,inscripcion,preguntas-frecuentes-
+ampliacion,O,es,0,PAG;CONC;1017;8;D;que-documentacion-es-necesaria-para-inscribirse-como-
+contribuyente-de-irpf;6;PAG;
+
+Registration of legal entities with RUT, for example, associations with a partnership agreement:
+http://www.dgi.gub.uy/wdgi/page?2,inscripcion,preguntas-frecuentes-
+ampliacion,O,es,0,PAG;CONC;1017;8;D;como-debo-hacer-para-inscribir-sociedades-personales-con-
+contrato-colectiva-s-r-l-en-comandita-simple-ltda-;11;PAG;
+
+Section V Contact point for further information
+
+Cr. Alejandro Grilli
+agrilli@dgi.gub.uy
+Tel.: +598 2 1344 int. 6446 and;
+Dr. Guillermo Nieves
+gnieves@dgi.gub.uy
+Tel.: +598 2 401 74 63

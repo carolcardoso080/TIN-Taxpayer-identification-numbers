@@ -1,0 +1,68 @@
+  Jurisdiction’s name:                                                   Luxembourg
+
+
+                              Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+
+Non-natural persons: The national identifier is used as a TIN-like number. The national identifier is
+regulated by the law of 30th March 1979 concerning the introduction of a national identifier. The tax
+file number corresponds to the national identifier. The allocation of a file number is an administrative
+practice. There is no further regulation.
+
+Natural persons: For direct taxation, a national identification number is used as TIN-like number to
+identify the taxpayer. For administrative purposes, the tax administration allocates additionally a file
+number to each taxpayer.
+
+The law of 19th June 2013 attributes an identification number of 13 digits to all natural persons.
+
+- registered in a municipal registry of physical persons;
+- registered by law in a file of a public administration;
+- possessing the Luxembourg nationality and residing abroad.
+
+The allocation of a file number is an administrative practice. There is no further regulation.
+
+
+        Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+      Individuals                    Yes                      Entities                     Yes
+
+Section II – TIN Structure
+
+Structure and syntax of Luxembourg TIN-like numbers for non-natural persons:
+The identifier has 11 digits (99999999999), the last digit is a check digit.
+The 11th digit corresponds to the difference between 11 and the remainder of the division by 11 of the
+sum of the products obtained by multiplying each of the first 10 digits of the ID number by the
+respective factors of 5, 4, 3, 2, 7, 6, 5, 4, 3 and 2, being understood that of the numbers generated,
+during the abovementioned division, a remainder of 1 is not allocated. A remainder of zero during that
+division is the check digit.
+Structure and syntax of Luxembourg TIN-like numbers for natural persons:
+The identification number has 13 digits (9999999999999), the 2 last digits are check digits. The 12 th
+digit is a check digit calculated on the basis of the algorithm “de Luhn 10”, calculated on the 11 first
+digits.
+The 13th digit is a check digit calculated on the basis of the algorithm “de Verhoeff”, calculated on
+the 11 first digits.
+Section III – Where to find TINs
+TIN-like numbers are not reported on official documents of identification. TIN-like numbers of natural
+persons can be found on the social security card.
+
+Section IV – TIN information on the domestic website
+
+https://impotsdirects.public.lu/fr/az/n/num__ro_dossier.html
+
+Section V – Contact point for further information
+
+
+Administration des contributions directes
+
+Division échange de renseignements et de retenue d’impôt sur les intérêts
+
+45, boulevard Roosevelt
+
+L-2982 Luxembourg
+
+https://impotsdirects.public.lu/fr/profil/organigramme/liste_telephone_service.html#D14
+

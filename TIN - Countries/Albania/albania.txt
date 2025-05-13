@@ -1,0 +1,75 @@
+Jurisdiction’s name: ALBANIA
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+The TIN for individuals (NID) is issued to Albanian citizens and foreign citizens of permanent
+residence within the Republic of Albania´s territory, serving: 1. For the National Registry of Civil
+Status. 2. For the national identity document. 3. As a social security number to identify, register and
+claim benefits from social security, health insurance and other social protection programs. 4. For the
+National Register of Elections. 5. As a Tax Identification Number. 6. For the driving license. 7.
+For the needs of other state institutions, (justice, order, prosecution, education and the Property
+Registration Office).
+
+The TIN for taxpayers is issued by the National Business Center (NBC), an Albanian government
+body.
+
+Any business carrying its activity in the Republic of Albania must be provided with the Number of
+Identification as Taxable Person. Initial registration and any subsequent changes to the registration,
+are done by applying at the National Business Center (NBC). Initial registration of non-profit
+organizations, tax representatives and farmers are made at the Regional Tax Directorate of the
+respective district.
+
+Automatic issuance of TINs to all residents for tax purposes:
+Individual: yes
+
+If no, instances where individuals are not being automatically issued a TIN are:
+Entities (as defined by the CRS): yes
+
+If no, instances where Entities are not being automatically issued a TIN are:
+
+Section II – TIN Structure
+
+The TIN (issued to taxpayers – legal entities / persons exercising economic activity) appears like
+this: J12345678N.
+
+The first character is a capital letter, indicating the decade the TIN was issued (e.g. "J" for 1990 -
+1999, "K" for 2000 - 2009, etc.)
+
+The 2nd character indicates the year (within the above-mentioned decade) the TIN was issued (e.g. 1
+for 2011, 2 for 2012)
+
+3rd and 4th characters indicate the converted month of the year the TIN was issued, depending on
+district where the business was established for the first time (e.g. January for Tirana - 13, February
+for Tirana - 14, January for another district - 25, February for that district - 26, etc.)
+
+5th and 6th characters indicate the day of the month the TIN was issued (e.g. 01, 02, 03 etc.)
+
+Characters 7 to 9 indicate the issuing order of the TIN within the above-mentioned day and in a
+specific district, (e.g. 009 is the 9th TIN issued in Tirana district, 108 is the 8th TIN issued in another
+district, etc)
+
+10th character is a check digit (capital letter), calculated according to a formula that depends on the
+first 9 characters.
+
+The TIN for individuals (National ID number NID), is a unique number, consisting of ten characters
+(e.g. I05101999Q) with coded information and with the following structure:
+Characters 1and 2: year of birth
+Characters 3 and 4: month of birth, gender
+Characters 5 and 6: day of birth
+Characters 7 to 9: issuing order number, within the same date
+Character 10: check digit.
+
+Section III – Where to find TINs?
+
+Section IV – TIN information on the domestic website
+
+Information on TIN for taxpayers: https://www.tatime.gov.al/eng/c/4/103/business-lifecycle
+
+Information on TIN for individuals: https://www.tatime.gov.al/eng/c/3/12/21/individual
+
+TIN verification tool: not available.
+
+Section V – Contact point for further information
+info@tatime.gov.al

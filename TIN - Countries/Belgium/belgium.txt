@@ -1,0 +1,53 @@
+Jurisdiction’s name: Belgium
+
+Information on Tax Identification NumbersInformation on Tax Identification Numbers
+Belgium issues TINs, which are reported on official documents of identification.
+
+For individuals the TIN corresponds to the "Numéro National (NN)", which is attributed when a
+registration on the national Register of the physical persons is made.
+
+For companies the number corresponds to the “business number - numéro d’entreprise -
+Belgische ondernemingsnummer”
+
+All the available information can be found on the “TIN on Europa” Portal at the following address :
+https://ec.europa.eu/taxation_customs/tin/tinByCountry.html?locale=en
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals Yes 
+Entities Yes
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the CRS),
+describe those instances where Entities are not being automatically issued a TIN.
+
+Section II – TIN Structure
+
+For individuals the TIN number of identification consists of eleven digits and is a unique
+number of identification for every registered person.
+
+For companies the TIN number of identification consists of ten digits (business
+number)
+
+Please see details on the following address :
+https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_BE_en.pdf
+
+Section III – Where to find TINs?
+
+Please see the following address :
+https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_BE_en.pdf
+
+Section IV – TIN information on the domestic website
+
+Please consult the following address :
+https://ec.europa.eu/taxation_customs/tin/tinRequest.html
+
+Section V – Contact point for further information
+
+Administrative contact point :
+ESS - DR2 - Impôts sur les revenus – International
+North Galaxy – Bd du Roi Albert II, 33, bte 22, 1030 Bruxelles – Belgium.

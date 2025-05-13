@@ -1,0 +1,128 @@
+Jurisdiction’s name: ANDORRA
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Pursuant to article 26(2)(b) of the Law 21/2014, of 16 October, on the basis of the tax system, taxable
+subjects shall obtain and use a Número de Registre Tributari (NRT, Tax Register Number) when carrying
+out transactions involving Andorran taxation. Article 13(1) of the Tax Management Regulations
+establishes that “natural and legal persons and other taxable subjects, be they resident o non-resident,
+shall obtain a Tax Register Number (NRT) for their transactions involving Andorran taxation.”
+For natural persons resident in Andorra, the NRT is the Número d’Identificació Administrativa
+(Administrative Identification Number, NIA), preceded by the letter “F” (article 14 Regulations). The
+NIA is regulated by Law 8/2007, of 17 May, on the regulation of the Administrative Identification
+Number.
+
+For natural persons non-resident in Andorra, the NRT is the Número d’Identificació Administrativa
+(Administrative Identification Number, NIA) granted to them, preceded by the letter “E” (article 15
+Regulations).
+
+For legal persons and entities without legal personality, the Tax Administration will assign a unique
+number, regardless the fact that they are resident or not in the Principality of Andorra. This number is
+invariable unless there is a change of legal form or nationality (article 16 Regulations).
+http://www.impostos.ad/images/stories/docs/NRT_Passama.pdf
+
+Automatic issuance of TINs to all residents for tax purposes
+Individual: yes (TIN number for individuals is issued automatically when they obtain the Administrative Identification
+Number (NIA), pursuant to article 14 of the Regulations on tax management, of 11 February 2015.)
+
+If no, instances where individuals are not being automatically issued a TIN are:
+Entities (as defined by the CRS): no (TIN number for entities must be requested pursuant to article 17 of the Regulations on tax management, of 11 February 2015.)
+
+If no, instances where Entities are not being automatically issued a TIN are:
+
+Section II – TIN Structure
+
+Format Explanation Holder/Comments Numbers
+
+### Natural persons
+-> F-123456-Z 
+
+F + 6 digits + 1 control letter
+
+Resident
+
+Número d’Identificació Administrativa (NIA) preceded by a letter “F”.
+From 0 to 699.999
+
+-> E-123456-Z 
+
+E + 6 digits + 1 control letter 
+
+Non-resident 
+
+From 800.000 to 999.999
+
+### Entities
+Legal persons
+
+-> A-123456-Z 
+
+A + 6 digits + 1 control letter Limited company
+(societat anònima)
+
+From 700.000 to 799.999
+
+-> L-123456-Z 
+
+L + 6 digits + 1 control letter Private limited company
+(societat limitada)
+
+From 700.000 to 799.999
+
+-> E-123456-Z 
+
+E + 6 digits + 1 control letter Non-resident legal entities
+(including legal persons)
+
+From 0 to 999.999
+
+### Other entities
+
+-> C-123456-Z 
+
+C + 6 digits + 1 control letter Joint ownership arrangements
+(comunitats de béns)
+
+From 0 to 999.999
+
+-> D-123456-Z 
+
+D + 6 digits + 1 control letter Public entities/bodies
+
+From 0 to 999.999
+
+-> G-123456-Z 
+
+G + 6 digits + 1 control letter Tax groups
+
+From 0 to 999.999
+
+-> O-123456-Z 
+
+O + 6 digits + 1 control letter Collective Investment Schemes
+
+From 0 to 999.999
+
+-> P-123456-Z 
+
+P + 6 digits + 1 control letter Associations/Foundations
+
+From 0 to 999.999
+
+-> U-123456-Z 
+
+U + 6 digits + 1 control letter Parapublic entities
+
+From 0 to 999.999
+
+Section IV – TIN information on the domestic website
+
+No further information available
+
+https://www.bopa.ad/bopa/027013/Documents/ga27013015.pdf
+http://www.impostos.ad/images/stories/docs/NRT_Passama.pdf
+
+Section V – Contact point for further information
+impostos@govern.ad

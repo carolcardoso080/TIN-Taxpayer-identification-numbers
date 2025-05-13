@@ -1,0 +1,132 @@
+BRUNEI DARUSSALAM Last update: August 2018
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Please provide a narrative description of the criteria governing the issuance of the TIN (e.g. some
+jurisdictions may only issue TINs to individuals, or to individuals that are filing tax returns; other
+jurisdictions may also issue TINs to (a subset of) Entities). In addition, information about the TIN
+issuing bodies, as well as the taxes for which the TIN is used as means of identification (e.g. income
+tax, wage tax, withholding taxes, VAT, etc.). In case a jurisdiction issues separate TINs for different
+taxes (e.g. income taxes, VAT, etc.), please only provide information in relation to the TINs you
+would expect to be provided for identification purposes in the context of the CRS.
+
+Furthermore, jurisdictions may provide any useful information regarding the validity and frequency
+of renewal of TINs, as well as any recent changes made to the structure of their TINs.
+
+Any further information regarding TINs that jurisdictions deem useful for publication on the CRS
+Portal may also be added in this narrative section.
+
+In Brunei Darussalam, only company incorporated or registered under the Companies Act (Chapter
+39) is subject to tax. Individuals, partnerships and other entities or bodies of persons are exempted
+from tax.
+
+Individual:
+There is no TIN issued for individual. In the absence of TIN, the functional equivalent are as follows:
+NRIC Number: This is for Brunei Darussalam Citizen, Permanent Resident of Brunei Darussalam
+and Temporary Resident of Brunei Darussalam.
+
+Brunei Darussalam Citizen – Yellow bordered cards with yellow printing and holders are aged 12
+years and above.
+
+Permanent Resident – Purple bordered cards with purple printing and holders are aged 12 years and
+above.
+
+Temporary Resident – Green bordered cards with purple printing aged and holders hold any
+immigration passes of 3 month above. Holders are aged 12 years and above.
+
+Entity:
+
+There is no TIN issued for Entities. In the absence of TIN, the functional equivalent for entities in
+Brunei are as follows:
+
+PXXXXXXXX – Standard registration number issued to Sole-Proprietorships or Partnerships
+registered under the Brunei’s Business Names Act, Chapter 92 (BNA).
+
+RCXXXXXXXX – Standard registration number issued to Private Limited Companies and Public
+Companies incorporated under the Brunei’s Companies Act, Chapter 39 (CA).
+
+RFCXXXXXXXX – Standard registration number issued to Foreign Branch of companies registered
+under the Brunei’s Companies Act, Chapter 39.
+
+All of the above registration numbers are issued by the Registry of Companies and Business Names
+Division, Ministry of Finance.
+
+Automatic issuance of TINs to all residents for tax purposes:
+Individual: yes
+
+If no, instances where individuals are not being automatically issued a TIN are:
+Brunei Darussalam does not issue TIN for individual. However, the functional equivalent
+for individual are issued automatically once they are considered as residents in Brunei
+Darussalam.
+
+Entities (as defined by the CRS): yes
+
+If no, instances where Entities are not being automatically issued a TIN are:
+
+Brunei Darussalam does not issue TIN for entities. However the functional equivalent for
+entities are issued when the entity mentioned registered under ROCBN.
+
+Section II – TIN Structure
+
+This section contains information on the alphanumeric structure of the TIN, the use of slashed, capital
+letter, hyphens, etc. In addition, please outline the meaning given to the numbers and letters that
+make up the TIN (including for instance the use of check digits).
+
+Individual
+
+Identity Card Block Number registered BELOW the year 2000
+
+NRIC Type Number
+Yellow (Citizen of Brunei Darussalam) 
+00-000001 to 00-080000
+00-110001 to 00-130000
+00-250001 to 00-315000
+00-315001 to 00-650000
+
+Purple (Permanent Resident of Brunei Darussalam)
+30-080001 to 30-110000
+30-200001 to 30-250000
+
+Green (Temporary Resident of Brunei Darussalam)
+50-130001 to 50-200000
+50-650001 to 50-970000
+50-970001 to 50-999999
+
+Identity Card Block Number registered ABOVE the year 2000
+
+Identity Card Type Number
+Yellow (Citizen of Brunei Darussalam) 
+01-000001 to 29-999999
+
+Purple (Permanent Resident of Brunei Darussalam)
+31-000001 to 49-999999
+
+Green (Temporary Resident of Brunei Darussalam)
+51-000001 to 99-999999
+
+Entity:
+Those highlighted in BOLD are FIXED PREFIXES.
+
+Sole-proprietorships / Partnerships registered under BNA: PXXXXXXXX (9 characters)
+
+Private Limited Companies / Public Companies registered under CA: RCXXXXXXXX (10 characters)
+
+Foreign Branch registered under CA: RFCXXXXXXXX (11 characters)
+
+Where:
+P = Proprietorship / Partnership
+RC = Registered Company
+RFC = Registered Foreign Company
+
+Section III – Where to find TINs?
+
+Please list the official documents where the TIN can be found, such as the photo page of passports,
+social security cards, corporate documents, etc. Ideally, jurisdictions would provide scans of the
+documents on which they would highlight the place where the TIN can be found.
+
+Individual:
+Brunei Darussalam does not issue TIN for individual. However, in the absence of TIN, the functional
+equivalent for individual is the identification number for Brunei Darussalam citizen, permanent
+resident of Brunei Darussalam and temporary resident that is printed on the NIRC shown below.

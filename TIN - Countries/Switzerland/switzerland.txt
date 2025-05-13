@@ -1,0 +1,208 @@
+                                  Jurisdiction's name: Switzerland
+
+                            Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+Entities
+Article 2 paragraph 1 letter g of the Federal Act on international Automatic Exchange of Information
+in Tax Matters designates the Swiss „Unternehmens-Identifikationsnummer“ (UID-number) as the
+tax identification number for entities in the context of AEOI.
+
+The UID-number has been introduced in 2011. It is a unique identification number that is centralized
+at the federal level and used not only in tax matters, but also for other purposes (i.e. as trade register
+number, for custom purposes). Its legal basis is the Swiss Federal Act on the UID dated 18 June 2010
+(UIDG for its acronym in German [SR 431.03]) as well as the respective Swiss Ordinance on the
+UID dated 26 January 2011 (UIDV for its acronym in German [SR 431.031]).
+
+Entities to which a UID-number is assigned are specified in the Swiss Federal Act on the UID (Article
+3 paragraph 1 letter c) as well as in the Swiss Ordinance on the UID (Article 1). Among others, the
+following entities are assigned a UID-number:
+
+       entities registered in the commercial register,
+       individuals and legal entities that are not registered in the commercial register, but whose
+        taxes or duties are collected by the Federal Administration or its agencies,
+       individuals who engage in commercial activities or exercise a liberal profession and who are
+        not covered by item 1 or 2 (UID-number is assigned for each single business),
+       partnerships without legal personality that must be identified for administrative purposes
+        because of their economic activity,
+       foreign or international legal entities that have a place of business in Switzerland or that need
+        to be identified for the enforcement of Swiss law.
+
+In general, a UID-number is assigned to a company as a legal entity and not to individual operating
+units of which the company consists.
+
+The UID-number is automatically assigned to entities at the moment of their registration in an
+administrative register that is connected to the UID-system. In cases where no UID is assigned,
+entities can submit a request to the Swiss Federal Statistical Office for registration in the UID-system.
+
+A register is maintained for the allocation, management and use of the UID-number by the Swiss
+Federal Statistical Office (UID-register). Part of this register is accessible through WEB interface to
+the public (https://www.uid.admin.ch). The register allows to look-up to which entity a specific UID-
+number is assigned to but also to search for a UID-number of a specific entity using its name, value
+added tax-number (VAT-number) or commercial register number. Publicly available information on
+UID-entities comprises for example data on status, address (domicile or place of business) as well as
+data in the commercial register.
+
+The Central Business Names Index called “Zefix” is the main data bank for companies registered for
+commercial purposes. This register also allows for similar search functions as those described for the
+UID-register. This register is also accessible through WEB interface to the public
+(http://www.zefix.ch/).
+
+Individuals
+Article 2 paragraph 1 letter f of the Swiss Federal Act on international Automatic Exchange of
+Information in Tax Matters designates the Old-age and Survivors’ Insurance Number (hereinafter:
+OASI Number [AHV-Versichertennummer; numéro d’assuré AVS; numero d’assicurato AVS]) as
+the tax identification number for individuals in the context of AEOI.
+The OASI Number is a unique identification number that is centralized at the federal level and issued
+by the Central Compensation Office (CCO). The OASI Number is systematically used for social
+security matters but it can - to a limited extent - also be used for other purposes (i.e. for tax matters,
+the military administration, education). Its legal bases are the Swiss Federal Act on Old-age and
+Survivors’ Insurance of 20 December 1946 (hereinafter: AHVG for its acronym in German and LAVS
+in French [SR 831.10]) as well as the respective Swiss Ordinance on Old-age and Survivors’
+Insurance of 31 October 1947 (AHVV for its acronym in German and RAVS in French [SR 831.101]).
+The circle of individuals to whom an OASI Number is assigned is specified in the AHVG/LAVS
+(Article 50c) and the AHVV/RAVS (Section H). Essentially, an OASI Number is assigned to
+individuals who are residents of Switzerland and to individuals who have their habitual abode in
+Switzerland. This happens immediately at the moment of the registration of an individual's birth
+certificate in the central data bank called "Infostar" or at the moment the State Secretariat for
+Migration provides the CCO with the relevant information.
+
+Switzerland specifies that according to articles 50c and 50d of AHVG/LAVS, systematic use of
+the OASI Number is restricted to authorities specifically accredited by an act of either federal
+or cantonal law to do so, and it is limited to the purposes stated by this particular act.
+Consequently, the number must remain confidential and it may be systematically used solely
+by Financial Institutions of partner jurisdictions of Switzerland for the purposes mentioned in
+the Multilateral Competent Authority Agreement on Automatic Exchange of Financial
+Account Information or bilateral treaties on Automatic Exchange of Financial Account
+Information.
+
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax
+purposes?
+
+Entities: NO
+Individuals: YES
+
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+Article 2 paragraph 1 letter f of the Swiss Federal Law on international automatic exchange of
+information in tax matters designates the Old Age and Survivors Insurance Number (Swiss social
+security number; AHV-Versichertennummer) as TIN for individuals in the context of AEOI. All
+individuals that are resident in Switzerland automatically receive the Old Age and Survivors
+Insurance Number.
+
+
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the
+CRS), describe those instances where Entities are not being automatically issued a TIN.
+Article 2 paragraph 1 letter g of the Swiss Federal Law on international automatic exchange of
+information in tax matters designates the company identification number (Unternehmens-
+Identifikationsnummer; UID) as TIN for entities in the context of AEOI. The vast majority of
+entities automatically receive a TIN. In particular certain collective investment vehicles may not
+automatically receive a TIN. In these cases, the Federal Tax Administration has the possibility to
+ask the Federal Statistics Office to issue a UID to be used as TIN.
+
+Section II – TIN Structure
+
+Entities
+The structure of a UID-number can be modelled as follows: CHE-999.999.99C
+
+The UID-number consists of nine digits, is randomly assigned and does not contain any relevant
+information (UID-number is a non-descriptive number). In order to indicate the Swiss origin of the
+number, it contains the prefix "CHE". This prefix corresponds to the alpha-3 variant of ISO 3166-1.
+The last digit (C) of the UID-number is a check digit and is determined on the basis of a standard
+calculation (modulo 11).
+
+For better readability, a hyphen is put between the prefix and the digital part of the UID-number.
+Analogous to the prefix, the numerical part is split into three blocks of three numbers, each block
+being separated from the other by a dot.
+
+Further information on the structure of the UID-number can be found under:
+http://www.bfs.admin.ch/bfs/portal/fr/index/themen/00/05/blank/03/02.html#parsys_8881
+
+Individuals
+The current OASI Number was introduced in 2008. It consists of an initial 3-digit country code
+(Switzerland = 756), a 9-digit random number which provides a lifelong, unique and anonymous
+identification to each person, and a final check digit. For better readability, each block is separated
+from the other by a dot. The structure of the OASI Number can be modelled as follows:
+
+756.1234.5678.97
+
+Further information on the structure of the OASI Number can be found under:
+http://www.bsv.admin.ch/themen/ahv/00011/02185/index.html?lang=de
+
+Section III – Where to find TINs?
+
+Entities
+The UID-number is not evidenced on an official card or other official document. However, the UID-
+number may be indicated on the front page of a VAT-return. In case an entity does not know its UID-
+number, it may use the UID-register to determine it. By entering the entity’s legal name, VAT-
+number or commercial register number, the UID-register allows to determine the corresponding UID-
+number, provided that the entity is recorded in the UID-register.
+
+Please find below examples of a VAT-return on which the UID-number is shown:
+
+    a) German version of quarterly VAT-return
+    b) French version of quarterly VAT-return
+
+
+
+
+    c) Italian version of quarterly VAT-return
+
+
+
+
+The UID-number can also be found on the commercial register excerpt. As these vary from Canton
+to Canton, no example is shown here. The commercial register can be consulted under:
+http://www.zefix.ch
+
+Individuals
+OASI Number on the official insurance certificate that is issued as of 2008. The insurance certificate
+indicates the family name, the first name, the date of birth and the OASI Number of the person
+covered by the Swiss OASI. The insurance certificate has the size of a credit card.
+
+
+
+
+Further information on the insurance certificate can be found under:
+http://www.zas.admin.ch/org/00723/00784/00785/index.html?lang=en
+
+The OASI Number is also indicated on Swiss health insurance cards which have the size of a credit
+card.
+
+Section IV – TIN information on the domestic website
+
+Entities
+For further information on the UID-number, please visit the website of the Swiss Federal Statistical
+Office: http://www.uid.ch
+
+Please find below the website with an online verification tool for the UID-number:
+https://www.uid.admin.ch
+
+Individuals
+For further information on the OASI Number, please visit the website of the Federal Social
+Insurance Office: http://www.bsv.admin.ch
+
+and the website of the Central Compensation Office:
+http://www.zas.admin.ch
+
+
+Section V – Contact point for further information
+
+Entities
+Swiss Federal Statistical Office
+IDE
+Espace de l’Europe 10
+CH-2010 Neuchâtel
+Phone: +41 (0)800 20 20 10 (Monday to Friday 08:30 - 11:30 / 14:00 - 16:00)
+Email: uid@bfs.admin.ch
+
+Individuals
+Swiss Federal Social Insurance Office FSIO
+Effingerstrasse 20
+CH-3003 Berne
+Phone +41 (0)58 462 90 11

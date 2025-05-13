@@ -1,0 +1,100 @@
+nformation on Tax Identification Numbers
+
+Section I – TIN Description
+
+All individuals and entities that, due to their activities or condition, are or may be taxed in Chile,
+must be registered in the Rol Unico Tributario (RUT or TIN Registry- Article 66 of the Tax Code).
+
+This requirement applies to the carry-on of business activities in Chile, performance of dependent or
+independent personal services within the country, and investments in debt and equity instruments,
+amongst others.
+
+The TIN Registry was created in 1969 through Decree No. 3 of the Ministry of Finance, which also
+establishes its rules.
+
+The TIN Registry is maintained by the Internal Revenue Service (SII). Entities, whether or not
+resident in Chile, shall request their registration in the TIN Registry to the SII. Foreigners that are not
+resident in Chile under immigration law provisions, shall also request the TIN number to the SII (e.g.
+prior to investing in shares). In the case of Chileans and of foreigners resident in Chile, the National
+Identity Number (RUN) given by the Civil Registry also serves as Tax Identification Number (RUT).
+
+The Civil Registry provides the Internal Revenue Service with information on the National Identity
+Numbers allocated to such individuals.
+
+The Tax Identification Number is personal and not transferable, therefore:
+
+ Each number will be assigned to one particular person or entity.
+
+ The number´s holder keeps the same number throughout its legal existence.
+
+ Once the holder´s legal existence expires, the number is never reassigned.
+
+The TIN/National Identity Number is the identification number used when acting in front of an
+authority, or signing a contract or any formal agreement or application, and it is usually also
+requested for day to day activities.
+
+Automatic issuance of TINs to all residents for tax purposes:
+
+There is no automatic procedure for issuing TINs to legal persons or entities, as they must register
+with the Internal Revenue Service. The registration procedure for granting TIN can be performed
+both onsite or through the web site and is regulated in Circular N° 31 of 2007 and N° 13 of 1999.
+
+Individual* : yes no
+
+* The RUN given by the Civil Registry is the same as the RUT in the case of individuals resident in
+Chile.
+
+Entities (as defined by the CRS): no
+
+If no, instances where Entities are not being automatically issued a TIN are: see above.
+
+Section II – TIN Structure
+
+The TIN consists of two parts: the serial number, a dash (-) and the check digit, (xx.xxx.xxx-x) which
+is obtained through an algorithm that consist of one digit ranging from 0 to 9 or letter K. The check
+digit serves to validate the TIN, since this number may only have one check digit.
+
+To verify that a TIN is right, a formula called the algorithm module 11 should be applied to the
+number that comes before the hyphen. This is an arithmetic formula wherein the sum of the
+multiplication is multiplied by 10 and divided by 11.
+
+If the result of the above operation matches the check digit, the TIN structure is valid. The check
+digit has three fundamental rules:
+
+ If it is equal to the result it is between 1 and 9;
+
+ K if the result is 10;
+
+ 0 (zero) if the result is 11.
+
+Section III – Where to find TINs?
+
+ National Identity Card
+
+ Driver’s license
+
+ Deeds
+
+ Contracts
+
+ Invoices
+
+ Import and export documents
+
+Section IV – TIN information on the domestic website
+
+TIN information: http://www.sii.cl/pagina/registro_contribuyentes/ayudas_inicio_actividades.htm
+
+TIN verification: https://zeus.sii.cl/cvc/stc/stc.html
+
+Section V – Contact point for further information
+
+Name : Ms. Paula Acevedo
+Government Agency : Servicio de Impuestos Internos
+Function / Role : Coordinator Exchange of Information
+Directorate : Tax Compliance Directorate
+Full Address : Teatinos 120, piso 3, Oficina 315, Santiago, Chile
+Generic e-mail address : intercambio.info@sii.cl
+Telephone : +56 2 23951421
+Fax : +56 2 23951755
+Language skills : Spanish and English

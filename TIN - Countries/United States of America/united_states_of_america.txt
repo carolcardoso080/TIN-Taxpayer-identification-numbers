@@ -1,0 +1,85 @@
+                   United States - Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+U.S. taxpayer identification numbers include a Social Security Number (SSN), which is issued to
+individuals, and an Employer Identification Number (EIN), which is issued to individuals or entities.
+In addition, an Individual Taxpayer Identification Number (ITIN) is issued to individuals who are
+required to have a U.S. taxpayer identification number but who do not have and are not eligible to
+obtain an SSN.
+
+A taxpayer must provide the taxpayer identification number (SSN, EIN or ITIN) on all tax returns and
+other documents sent to the IRS. A taxpayer must also provide its identification number to other
+persons who use the identification number on any returns or documents that are sent to the IRS.
+
+An SSN is issued to individuals by the Social Security Administration. Further information regarding
+the SSN may be found at: www.ssa.gov/.
+
+An EIN is issued by the IRS to sole proprietors, partnerships, corporations (including limited liability
+corporations), and other entities for tax filing and reporting purposes. Application for an EIN may be
+made by either: (1) submitting IRS Form SS-4, Application for Employer Identification Number
+(http://www.irs.gov/pub/irs-pdf/fss4.pdf) online; or (2) mailing or faxing the Form SS-4 as described
+in the form instructions. International applicants may call telephone number (267) 941-1099 (not a
+toll-free number). For more information about EINs, see IRS Publication 1635, Understanding Your
+EIN (http://www.irs.gov/pub/irs-pdf/p1635.pdf).
+
+An ITIN is a tax processing number issued by the IRS to individuals who are required to have a U.S.
+taxpayer identification number but who do not have and are not eligible to obtain an SSN from the
+Social Security Administration. ITINs are issued regardless of immigration status because both
+resident and nonresident aliens may have a U.S. filing or reporting requirement under the Code.
+Individuals must have a filing requirement and file a valid federal income tax return to receive an
+ITIN, unless they meet an exception. Application for an ITIN may be made on IRS Form W-7,
+Application for IRS Individual Taxpayer Identification Number (http://www.irs.gov/pub/irs-
+pdf/fw7.pdf).
+
+Section II – TIN Structure
+
+An SSN is in the following format: xxx-xx-xxxx. The first three digits have geographical significance,
+the next two digits have no real significance and are issued sequentially, and the last four digits are
+random.
+
+An EIN is in the following format: xx-xxxxxxx.
+
+An ITIN is a nine-digit number that always begins with the number 9 and is in the following format:
+9xx-xx-xxxx.
+
+Section III – Where to find TINs?
+
+The U.S. Taxpayer Identification Number may be found on a number of documents, including tax
+returns and forms filed with the IRS, and in the case of an SSN, on a social security card issued by the
+Social Security Administration. In the United States, TINs are generally considered confidential,
+private identity information. When provided to the IRS, TINs are protected from disclosure under
+section 6103 of the Code; and, in some cases, section 6105 of the Code in conjunction with
+confidentiality provisions of the relevant tax treaty, tax information exchange agreement, or other
+bilateral agreement for the exchange of information, when the information is provided to the IRS by a
+foreign government under such treaty or agreement..
+
+Section IV – TIN information on the domestic website
+
+http://www.irs.gov/Individuals/International-Taxpayers/Taxpayer-Identification-Numbers-TIN
+
+Section V – Contact point for further information
+
+Regarding the SSN, contact the Social Security Administration as provided in its website:
+http://www.ssa.gov/agency/contact/.
+
+Regarding the EIN and ITIN, please see the following:
+
+The U.S. competent authority is not generally involved in the provision of TINs.
+
+Taxpayers with specific individual or business account questions should contact the International
+Taxpayer Service Call Center by phone or fax. The International Call Center is operational Monday
+through Friday, from 6:00 a.m. to 11:00 p.m. (Eastern Time):
+
+Tel: 267-941-1000 (not toll-free)
+
+Fax: 267-941-1055
+
+Depending on the nature of their inquiry, foreign governments with questions about the United States’
+TINs may consult the IRS website, contact the IRS’ International Visitors Program online via the
+website,            http://www.irs.gov/Businesses/International-Businesses/Internal-Revenue-Service-
+International-Visitors'-Program-(IVP),
+
+ or for matters involving questions of residency or mutual assistance, contact the Treaty Assistance
+and Interpretation Team (TAIT), whose contact information is listed under “Residency,” above.
+

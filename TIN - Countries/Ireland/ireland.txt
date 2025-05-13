@@ -1,0 +1,136 @@
+                          Ireland - Information on Tax Identification Numbers
+
+ Section I – TIN Description
+
+Natural Persons: Ireland issues TINs, which are not reported on official documents of identification. The number
+used to identify taxpayers is the Personal Public Service Number (PPS No). This number is issued by the
+Department of Social Protection but is also used by the Revenue Commissioners to identify taxpayers.
+
+PPS-numbers are issued automatically on birth registration for children born in the country. Anyone
+else must make application at an office of the Department of Social Protection. Once issued, a PPS
+number is never changed.
+
+Non Natural Persons: Ireland issues two types of TINs to non natural persons – Tax Reference
+Numbers (TRNs) and CHY Numbers.
+
+A TRN is issued by the Revenue Commissioners when a non-natural person registers for tax, and is
+subsequently used by the Revenue Commissioners to identify those taxpayers. Non-natural persons can
+be Companies, Partnerships, Trusts, and Unincorporated Bodies and a TRN is not reported on official
+documents of identification.
+
+ CHY Numbers are issued by the Revenue Commissioners to eligible bodies who qualify for a
+ charitable tax exemption in accordance with Section 207 TCA 1997. Exemptions are granted under
+ four broad headings: Advancement of Education; Advancement of Religion; Relief of Poverty and Benefit to
+ the Community.
+
+
+     Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+ Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+                                          X                                                    Yes
+         Individuals                                                Entities
+                                          No                                                    X   
+
+ Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+ instances where individuals are not being automatically issued a TIN.
+
+
+ The Department of Social Protection automatically issues a TIN to all individuals born in Ireland. Individuals
+ born in Ireland during or after 1971, or who started work in Ireland after April 1979 will have been
+ automatically issued with a TIN.
+
+
+ Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the CRS),
+ describe those instances where Entities are not being automatically issued a TIN.
+
+
+ No, entities, i.e. companies, partnerships, trusts and unincorporated bodies, are not automatically issued a TIN.
+ At present TINs are issued to Entities only when they contact the Revenue Commissioners to register
+ themselves, typically by completing a TR1 or TR2 form.
+ (Recent developments in the area of registration of companies will alter this process somewhat in that Revenue
+ will take a more active role. From June 2016 Revenue will contact incorporated companies who have not
+ engaged with the Revenue Commissioners and will direct those companies who have never traded and do not
+ intend to trade to back to the Company Registration Office (CRO). Remaining companies will be directed to
+ engage with Revenue.)
+Section II – TIN Structure
+
+Format Examples TRN (both natural and non natural persons):                 1234567T
+
+                                                              or            1497955KA
+
+Explanation:    7 digits + either 1 or 2 letters.
+
+Comment:        There can be one or two letters at the end of the digit sequence and there is no
+                restriction on the letters used.
+
+
+
+
+Format Example CHY Number (only non natural persons):         CHY 1234
+
+
+Explanation:     The l ett ers CHY followed by between 1 and 5 digits.
+
+
+
+
+Section III – Where to find TINs
+Tax Reference Numbers (TRNs)
+TRNs are not reported on official documents of identification. Taxpayers are informed of their TRN
+following registration and they can be found on the tax return form e.g.
+
+
+
+                                                           TRN of company here
+
+
+
+
+                                                         Taxpayer informed of TRN following
+                                                         registration
+
+
+
+
+                                                                 PPS No / TIN of Natural person
+Section IV – TIN information on the domestic website
+
+Information on TRN:     www.welfare.ie for natural persons only. Not available for non natural persons
+TRN online check:       Not available
+
+
+
+Information on CHY Numbers:
+A list of bodies who have been granted a charitable tax exemption and their associated CHY Number is
+available on the Revenue Website at: http://www.revenue.ie/en/about/publications/charities_alpha.xls
+
+Section V – Contact point for further information
+
+Contact for TRN:         Revenue Commissioners,
+                         Planning Division,
+                         1st floor,
+                         Bishop’s Square,
+                         Redmond Hill,
+                         Dublin 2,
+                         D02 TD99,
+                         Ireland.
+
+
+
+Contact for CHY Numbers:Revenue Commissioners,
+                       Collector-General’s Division,
+                       Charities Section,
+                       Government Offices,
+                       Nenagh,
+                       Co. Tipperary.
+                       Tel: +353 67 63377 LoCall: 1890 666333
+
+
+Section VI – Legal Notice
+
+
+The material above on the Irish TIN produced by Ireland is subject to Government of Ireland
+copyright, according to the Copyright and Related Rights Acts 2000. Authorisation to reproduce such
+material must be obtained from the copyright holders concerned.
+

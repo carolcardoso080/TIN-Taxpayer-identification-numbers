@@ -1,0 +1,97 @@
+Jurisdiction’s name: ARGENTINA
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+The Federal Administration of Public Revenue assigns a unique number (CUIT, for its Spanish
+acronym) to each taxpayer enrolled.
+
+The registration process differs between individual or legal persons.
+
+The individual is registered at the agency corresponding to its fiscal domicile (in which the economic
+activity is performed) and provides the necessary information and documents to prove its identity
+(birth date, ID Nº) and domicile (certificate by a notary public, title deed or rental agreement, bank
+account or credit card statement, municipal permit, among others).
+
+Argentinian individuals may also request their CUIT electronically with the mobile APP “Mi AFIP”.
+For this they will need a mobile device with a camera and their ID (DNI).
+
+In the case of legal persons, the request for registration must be done electronically, providing the
+identifying information about the partnership (registered name, legal domicile and any other related
+data), information about the members (authorities, equity shares, partners and shareholders), and any
+other information related to the activity performed, taxes and fiscal domicile. The representative will
+appear in person at the AFIP premises in order to provide all the necessary documentation to prove
+the existence of the legal person, which will vary according to the legal nature (partnership business,
+trust, permanent establishment, etc.) After having verified the documents submitted and accepted the
+registration, the AFIP will provide the CUIT assigned to said legal person.
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals [Yes] Entities [Yes]
+
+Question 2a – If you answered No to Question 1 with respect to individuals, describe those instances
+where individuals are not being automatically issued a TIN.
+
+Response:
+CDI - Identification Code
+The Identification Code - CDI - represents a numeric code that the AFIP issues to individuals who are
+not required to have a CUIT or CUIL (see below) due to the fact that there is no tax or social security
+reason to have one but otherwise is required to be identified for certain procedures.
+
+CUIT - Individual Taxpayer Identification Number
+Any individual beginning an economic activity must register with various government agencies,
+including the AFIP. Upon registration, a CUIT is granted by AFIP; thus, he/she acquires a tax identity
+vis a vis third parties, and is therefore entitled to develop its activities on a legal basis.
+
+CUIL -Workers Identification Number
+The CUIL is required for Social Security benefit’s purposes. The CUIL is granted automatically and
+simultaneously with the ID (DNI).
+
+Question 2b – If you answered No to Question 1 with respect to Entities (as defined by the CRS), describe
+those instances where Entities are not being automatically issued a TIN.
+
+Response:
+CDI - Identification Code
+The Identification Code - CDI - represents a numeric code that the AFIP issues to entities not required
+to have a CUIT due to the fact that there is no tax reason to have one but otherwise is required to be
+identified for certain procedures.
+
+CUIT - Individual Taxpayer Identification Number
+Entities beginning an economic activity must register with various government agencies, including the
+AFIP. Upon registration, a CUIT is granted by AFIP; thus, they acquire a tax identity vis a vis third
+parties and are therefore entitled to develop its activities on a legal basis.
+
+CIE – Foreign Investors Code
+Legal persons, non-business groups and / or any other foreign resident collective entity willing to
+make financial investments in Argentina with no CUIT or CDI must request the Foreign Investors
+Code.
+
+https://serviciosweb.afip.gob.ar/genericos/guiasPasoPaso/VerGuia.aspx?id=192
+
+Section II – TIN Structure
+
+The CUIT consists of 11 digits:
+
+- the first 2 digits indicate the person: the numbers 20, 23, 24 or 27 are assigned randomly for
+individuals on a non-binary basis, and 30 or 33 for legal persons.
+
+- The next 8 digits are: in the case of individuals, the ID (DNI) number; and in case of
+legal persons, it is assigned by the AFIP.
+
+- The last digit is the verification number and it is randomly assigned.
+
+Section III – Where to find TINs
+
+Once the CUIT / CUIL / CDI / CIE has been assigned, persons become part of the taxpayers’ register
+of the Federal Administration. Any person may enter the AFIP’s website and see the Proofs of
+Registration (General Regime) or Registration of Monotributo (Simplified Tax Regime for Small
+Taxpayers) of any of the registered taxpayers, thus having access to the information regarding their
+tax status.
+
+The TIN may be verified at:
+
+https://seti.afip.gob.ar/padron-puc-constancia-internet/ConsultaConstanciaAction.do
+Proof of registration (model)

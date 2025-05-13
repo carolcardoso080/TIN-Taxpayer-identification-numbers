@@ -1,0 +1,110 @@
+FRANCE - Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+For individuals:
+
+The French tax authorities issue a tax identification number to all individuals with a tax obligation in
+France. This TIN is given at the time of the registration of the individual in the databases of the French
+tax administration. This number is unique, reliable and fixed for ever. The French name of the TIN is
+known as the numéro fiscal de référence or numéro SPI.
+
+For entities:
+
+As soon as they are created, the French entities (and individuals carrying out business activities) have an
+identification number issued by a governmental authority. This number is used for several purposes,
+including for tax purpose. This number is known as the numéro SIREN.
+
+Fonds communs de placement (FCP) and Sociétés d’investissement à capital variable (SICAV) are
+financial institutions. FCP do not have tax identification number. In any cases, the collection of tax
+identification number is not required with respect to entities which are FIs.
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals Yes 
+Entities No
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+
+The French TIN is automatically issued to an individual once this individual is identified by the French
+Tax administration (FTA) as a taxpayer (person having a fiscal obligation).
+
+Therefore, the issuance of the French TIN for individuals occurs following a first tax-return or following
+a first tax payment obligation of the individuals.
+
+Apart from those situations, the FTA do not issue a TIN on request of a French tax resident.
+
+Case of a new French resident
+
+If an individual moves to France and then becomes a French tax resident for the first time, the FTA will
+issue a French TIN only once the individual submits his tax-return or is identified as having a first tax
+payment obligation.
+
+This case is also applicable for individuals who were previously tax residents in France but not any
+more in 2005.
+
+Case of non-compliant taxpayers
+
+The French tax residents who have never submit their first tax return are not known in the FTA's
+database, and then, they do not have any French TIN.
+
+Case of minors
+
+The minors do not have a French TIN.
+
+However, once they are 18 and if their parents are French tax residents, they are automatically identified
+in the FTA's database, even if they do not have any tax obligation. In this case, a French TIN is issued.
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the CRS),
+describe those instances where Entities are not being automatically issued a TIN.
+
+/
+
+Section II – TIN Structure
+
+For individuals:
+
+The TIN consists in 13 numerals (format: 99 99 999 999 999). The first digit of the TIN is always 0, 1, 2
+or 3.
+
+For entities:
+
+The numéro SIREN consists in 9 numerals (format 999 999 999).
+
+Section III – Where to find TINs?
+
+For individuals:
+
+The French TIN does not appear on official identification documents (such as ID card or passport). It may
+be found on the first page of the pre-filled tax return for income tax (déclaration pré-remplie d'impôt sur
+le revenu) and on the first page of the notice of assessment (avis d'imposition) of income tax, residence
+tax or property tax.
+
+A pre-filled tax return or a notice of assessment may be related to several persons. In such a case, the TIN
+of each of the taxpayers is indicated in the same order of the information of the field “Etat civil” of the
+document.
+
+1. Pre-filled tax return (field “N° Fiscal declarant”)
+2. Notice of assessment (field “Numéro fiscal”)
+
+For entities:
+
+The numéro SIREN is given to an entity at the time of its creation. This number is reported on the
+accounting documents (tax returns, etc.) of the entity.
+
+Section IV – TIN information on the domestic website
+
+For individuals:
+
+The French TIN cannot be checked by an online TIN-verification tool.
+
+For entities:
+
+The number can be checked online : http://avis-situation-sirene.insee.fr/avisitu/
+
+Section V – Contact point for further information
+
+For further information about their TIN, the French taxpayers could contact the relevant tax service
+(Service des impôts des particuliers or Service des impôts des entreprises).

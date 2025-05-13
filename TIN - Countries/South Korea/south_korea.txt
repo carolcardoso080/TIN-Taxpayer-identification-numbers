@@ -1,0 +1,121 @@
+                 Jurisdiction`s name                                 Republic of Korea
+                    Last update                                       30, May, 2023
+                              Information on Tax Identification Numbers
+                                       Section Ⅰ - TIN Description
+
+   In Korea, two types of Tax Identification Number (TIN) are used for filing tax returns: a
+Resident Registration Number and a Business Registration Number.
+
+1. Individuals :
+
+   A Resident Registration Number, which is issued by the Ministry of Interior to a Korean
+   citizen residing in the country, should be used as his or her TIN when a corporation
+   withholds taxes from its employee’s wages and salaries or an individual files tax returns
+   for income, transfer, inheritance and/or gift.
+
+   For the purpose of CRS reporting, A Passport Number is also admitted as a TIN in the
+   Passport issued by the Ministry of Foreign Affairs.
+
+2. Entities :
+
+   Likewise, an entity starting a business should obtain a Business Registration Number from
+   the head of a district tax office in its jurisdiction and use the number as its TIN for all tax
+   returns, including corporate tax returns, that are filed.
+
+   In case of a legal person that has registered its foundation to the court, it is given a
+   Corporation Registration Number managed by Court. Exceptionally, a Corporation Registration
+   Number is also accepted as the TIN for an entity.
+
+Automatic issuance of TINs to all residents for tax purposes :
+
+1. Individual: yes
+
+       If no, instances where individuals are not being automatically issued a TIN are:
+
+2. Entities(as defined by the CRS): yes
+
+       If no, instances where individuals are not being automatically issued a TIN are:
+
+                                       Section Ⅱ - TIN Structure
+
+1. Individuals
+   A Resident Registration Number consists of 13 digits (XXXXXX-XXXXXXX) and is
+
+   assigned based on the following criteria:
+   (a) It is made up of an individual`s date of birth with 6 digits.
+       For example, a person born on Januay 2, 1985 has the first six digit such as 850102.
+
+   (b) It identifies the sex of individuals.
+
+                                     Koreans                            Foreigners
+  Year of Birth        before 2000             after 2000     before 2000         after 2000
+      Male                  1                       3              5                   7
+     Female                 2                       4              6                   8
+
+
+2. Entities
+ ① A Business Registration Number consists of 10 digits.
+     - TIN structure : XXX-XX-XXXXX
+ ② A Corporation Registration Number consists of 13 digits.
+     - TIN structure : XXXXXX-XXXXXXX.
+
+
+
+                                 Section Ⅲ - Where to find TINs?
+
+1. Overview
+
+    A Resident Registration Number of an individual can be verified from his or her resident
+registration card issued by the local government in his or her jurisdiction. The Business
+Registration Number of entities is given in its business registration certificate issued by the
+district tax office in its jurisdiction. The Corporation Registration Number can be found in the
+Certified Copy of the Corporate Registry.
+
+
+
+2. Resident Registration Number
+
+   A Resident Registration Number is displayed on the front side of a Resident Registration Card
+issued by the Ministry of Interior.
+
+
+                                    < Resident Registration Card>
+  The passport number can be found in the first page of a passport issues by the Ministry of
+Foreign Affairs.
+
+
+                                          <Passport>
+
+
+
+
+3. Business Registration Number
+
+   A Business Registration Number can be found on the front side of a Business Registration
+Certificate issued by the National Tax Service.
+                              <Business Registration Certificate>
+4. Corporation Registration Number
+
+   A Corporation Registration Number can be found on the upper left table of on the first
+page of Certified Copy of the Corporation Registry issued by the Court.
+
+
+                                    < Resident Registration Card>
+
+
+
+
+                     Section IV - Websites for further information on TIN
+For further information, please visit:
+  - Resident Registration Number:
+     https://www.mois.go.kr/frt/sub/a06/b06/IDCard/screen.do
+  - Business Registration Number
+     http://www.nts.go.kr/nts/ad/nf/nltFormatApiList.do?mi=40178
+                       Section V - Contact point for further information
+
+AEOI Manager Ms. Jiyeon Kang
+Offshore Information Division,
+International Tax Management
+National Tax Service
+Phone: +82 44 204 2940
+E-mail : aeoi.nts@korea.kr

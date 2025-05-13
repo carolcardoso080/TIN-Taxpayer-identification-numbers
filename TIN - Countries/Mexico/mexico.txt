@@ -1,0 +1,169 @@
+  Jurisdiction’s name:                                                         Mexico
+
+                               Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+
+ Under this item, jurisdictions should provide a narrative description of the criteria governing the
+ issuance of the TIN (e.g. some jurisdictions may only issue TINs to individuals, or to individuals that
+ are filing tax returns; other jurisdictions may also issue TINs to (as subset of) Entities). In addition,
+ information about the TIN issuing bodies, as well as the taxes for which the TIN is used as means of
+ identification (e.g. income tax, wage tax, withholding taxes, VAT, etc.). In case a jurisdiction issues
+ separate TINs for different taxes (e.g. income taxes, VAT, etc.), jurisdictions should only provide
+ information in relation to the TINs they would expect to be provided for identification purposes in the
+ context of the CRS.
+
+ Furthermore, jurisdictions may provide any useful information regarding the validity and frequency
+ of renewal of TINs, as well as any recent changes made to the structure of their TINs.
+
+ Any further information regarding TINs that jurisdictions deem useful for publication on the CRS
+ Portal may also be added in this narrative section.
+
+ The Mexican Tax Administration Service assigns a unique number (Clave en el Registro Federal de
+ Contribuyentes - RFC) to each person enrolled in such Registry; the issued RFC has a special structure
+ depending on the type of taxpayer (individuals or legal entities). The latter is the only distinction
+ provided for in the Mexican tax provisions.
+
+ The pre-registration process is available online, which has to be completed directly at the
+ Decentralized Administration Office of Services to the Taxpayer (Administración Desconcentrada de
+ Servicios al Contribuyente) of the Mexican Tax Administration Service.
+
+ The documents required, among others, to obtain the registration are:
+
+     a) Individuals.- (1) Birth certificate or CURP (Clave única de registro de población - Unique
+        Key of Population Registry); (2) proof of address; (3) government-issued identification and
+        (4) online pre-registration number (if applicable).
+
+     b) Legal entities.- (1) Certificate of incorporation; (2) proof of address; (3) power of attorney
+        and identification of the authorized representative of the legal person, and (4) online pre-
+        registration number (if applicable).
+
+ Mexican Tax Code (Art. 27) also establishes the obligation to register in the Federal Taxpayer Registry
+ and obtain a RFC for individuals and legal entities who must submit periodic tax returns, or to issue
+ digital tax invoices for the acts or activities they carry out or for the income they earn, as well as,
+ individuals and legal entities who open a financial account in an institution of the Mexican financial
+ system or in savings and loan cooperatives where they receive deposits or perform transactions that
+ may be subject to taxation; the legal representative, partners and shareholders of legal entities, as well
+ as the persons who acquired their shares through recognized or widely stock markets and those shares
+ are deemed as having been placed amongst the general public investors, provided that, in this latter
+ situation, the partner or shareholder should not have requested registration in the book of partners and
+ shareholders
+
+ Individuals of legal age (18 years old) without economic activities, must apply for registration in the
+ Federal Taxpayer Registry, who will not have the obligation to submit tax returns or pay contributions.
+ Individuals and legal entities who submit any document to the tax and jurisdictional authorities in
+ matters in which the Ministry of Finance and Public Credit or the Tax Administration Service are
+ parties, must at all times cite the key that the Tax Administration Service has assigned to them at the
+ time of registering it in the Federal Taxpayers Registry.
+
+ The abovementioned Code (Art. 42) grants the tax authorities the power to request taxpayers with
+ information necessary to update the Federal Taxpayer Registry, as well as to register those taxpayers
+ who, in accordance with the tax provisions, are requested to be registered and have not fulfilled such
+ requirement.
+
+ Applications for registration in the RFC will be mandatory for legal entities resident in Mexico, legal
+ entities resident abroad with permanent establishment in Mexico, legal entities resident abroad without
+ permanent establishment in the country and legal arrangements such as “asociación en participación”
+ and “fideicomiso”.
+
+
+ Relevant tax provisions:
+
+ Article 27 – Mexican Tax Code
+ Article 22 – Mexican Tax Code Regulations
+ Administrative Regulation 2.4.11– Mexican Tax Regulations for 2023 (RMF for its acronym in
+ Spanish)
+
+
+    Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+         Individuals                        No                       Entities                     No
+
+Question 2a – If you answered No to Question 1 with respect to individuals, describe those
+instances where individuals are not being automatically issued a TIN.
+(If no, instances where individuals and Entities are not being automatically issued a TIN are:)
+
+In Mexico there is no automatic procedure for issuing a TIN to individuals or entities, it is the
+responsibility of the individual or entity to register in the Federal Taxpayer Registry to obtain a TIN.
+
+According to the Mexican tax laws and regulations, the only legal entities and individuals are requested
+to register to obtain a TIN are those who (i) are required to file periodic tax returns or to issue digital tax
+invoices for the activities carried out or for the income earned, (ii) open a financial account (at FIs
+pertaining to the Mexican financial system as well as Cooperative Savings and Loan Societies with
+respect to transactions that may be subject to taxation).
+
+In addition, the individuals of legal age (18 years old) must apply for registration in the Federal Taxpayer
+Registry, regardless of whether they have or they have not a business activity.
+
+Additionally, entities are required to submit the notifications set forth by the Federal Fiscal Code
+regarding their legal representatives as well as partners and shareholders.
+
+Section II – TIN Structure
+This section contains information on the alphanumeric structure of the TIN, the use of slashed, capital
+letter, hyphens, etc. In addition, jurisdictions would outline the meaning given to the numbers and letters
+that make up the TIN (including for instance the use of check digits).
+
+The structure of the RFC varies depending on the type of taxpayer.
+For individuals, it consists of 13 characters (4 letters followed by 6 digits and 3 alphanumeric characters)
+and for legal entities (and certain legal arrangements), it consists of 12 characters (3 letters followed by
+6 digits and 3 alphanumeric characters). The first letters (4 or 3, respectively) belong to the name, the
+next 6 digits are the date of birth or date of incorporation, and the last 3 (or 2, for legal entities) belong
+to the check digits (homoclave).
+
+Section III – Where to find TINs
+In this section, jurisdictions should list the official documents where the TIN can be found, such as the
+photo page of passports, social security cards, corporate documents, etc. Ideally, jurisdictions would
+provide scans of the documents on which they would highlight the place where the TIN can be found.
+
+Taxpayers who register in the Federal Taxpayer Registry will be provided with a tax identification
+number known as Federal Taxpayer Registry (RFC), as well as with a tax identification card or
+certification of tax registration once they comply with all the requirements set forth by the Mexican Tax
+Administration Service.
+
+Below, please find the documentation obtained from the Mexican Tax Authorities:
+    TAX IDENTIFICATION CARD
+
+
+
+
+ACKNOWLEDGEMENT OF REGISTRATION
+                             CERTIFICATION OF TAX SITUATION
+
+
+
+
+Section IV – TIN information on the domestic website
+
+In this section, jurisdictions can provide hyperlinks to their domestic website where further information
+on TINs can be found. In addition, jurisdictions could provide a link to an online TIN-verification tool,
+if available.
+
+For further information:
+
+Realiza tu inscripción en el RFC persona física. - Trámites del RFC - Portal de trámites y servicios -
+SAT
+
+Portal de trámites y servicios - SAT
+Inscripción en el RFC de personas morales en la ADSC | | gob.mx (www.gob.mx)
+
+https://rfcampc.siat.sat.gob.mx/PTSC/IdcSiat/IDCPersonaMoral/IdcPMPaso1DatosDeIdentificacion.jsf
+
+Online TIN Verification Tool:
+
+https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/
+
+
+Section V – Contact point for further information
+Under this header, jurisdictions would provide the contact details of the competent service within their
+tax administration, which can be contacted in case of further questions on tax residency.
+
+Mexican Competent Authority:
+
+Central Administration of Exchange of International Information (Administración Central de
+Intercambio de Información Internacional)
+
+Avenida Hidalgo 77, Col. Guerrero, Alcaldía Cuauhtémoc, C.P. 06300, Ciudad de México.
+Telephone attention from anywhere in the country dial 55 627 22 728 and for abroad (+52) 55 627 22
+728.
+

@@ -1,0 +1,108 @@
+Jurisdiction’s name: United Kingdom
+
+Information on Tax Identification Numbers
+
+Section I – TIN Description
+
+The United Kingdom does not issue TINs in a strict sense, but it does have two TIN-like numbers,
+which are not reported on official documents of identification:
+
+1. The unique taxpayer reference (UTR). The format is a unique set of 10 numerals allocated
+automatically by HMRC for both individuals and entities who have to submit a tax return. Although
+used on tax returns and some other correspondence, the UTR is not evidenced on a card or other
+official document.
+
+2. The other reference used in the UK, is the National Insurance Number (NINO). This consists of two
+letters, six numbers and a suffix letter A, B, C or D (for example DQ123456C). All individuals living
+regularly in the United Kingdom are either allocated or can be issued with a NINO. A NINO is issued
+automatically to young people living in the UK when they approach the age of 16. The NINO is used
+on a number of official documents. Individuals are notified of their NINO by an official letter, from
+the Department for Work and Pensions or HM Revenue and Customs. However this contains the
+statement, “This is not proof of identity” and therefore it cannot be used to verify the identity of the
+holder. The NINO can be quoted as the tax reference number on some official documents from HM
+Revenue and Customs.
+
+Both the UTR and NINO are personal and private to the party they are allocated to; they are fixed for
+ever and they are always in the same format.
+
+However, not all resident taxpayers, or all nationals, are issued with a UTR or NINO.
+Individuals may also have documentation showing a PAYE Temporary reference number (TRN)
+which is generated internally when a full NINO cannot be traced or is not held. This consists of 2
+numerals, 1 letter, 5 numerals (ie 99L99999).
+
+Additional information on the mandatory issuance of Tax Identification Numbers (TINs)
+
+Question 1 – Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals No 
+Entities No
+
+Question 2a – If you answered no to Question 1 with respect to individuals, describe those instances
+where individuals are not being automatically issued a TIN.
+
+TINs are not issued to individuals who do not have a liability for UK tax or National Insurance
+Contributions, this includes those under 16 years of age, those who do not have a right to work in the UK
+as well as those with no UK tax or National Insurance Contributions liability.
+
+Question 2b – If you answered no to Question 1 with respect to Entities (as defined by the CRS),
+describe those instances where Entities are not being automatically issued a TIN.
+
+TINs are not issued to all UK resident trusts.
+
+Section II – TIN Structure
+
+Format Explanation Comment
+
+9999999999 10 numerals UTR: Unique Taxpayer
+
+Reference
+
+LL999999L 9 characters:
+- 2 letters
+- 6 numerals
+- 1 letter (always A, B, C or D)
+
+NINO: National Insurance
+
+Number
+
+Section III – Where to find TINs?
+
+The Unique Taxpayer Reference (UTR) and the National Insurance Number (NINO) do not appear on
+official identification documents. Both identifiers are unique and personal to the individual concerned.
+Unique Taxpayer Reference (UTR)
+
+The UTR may be found on the front page of the tax return (form SA100 or CT600) as shown in the
+example below:
+
+The UTR may also be found on a “Notice to complete Tax Return” (form SA316 or CT603) or a
+Statement of Account. Depending on the type of document issued the reference may be printed next to
+the headings “Tax Reference”, “UTR” or “Official Use”.
+
+National Insurance Number (NINO)
+
+HMRC issues coding notices to taxpayers. The heading of the notice contains the National Insurance
+Number as indicated in the example below:
+
+The National Insurance Number may also be shown on a National Insurance card and on letters issued
+by the Department for Work and Pensions (DWP). The number also appears on an employee's pay slip
+and on a Statement of Account issued by HMRC.
+
+Section IV – TIN information on the domestic website
+
+Information on UTR on HMRC’s internet site:
+
+http://www.hmrc.gov.uk/index.htm
+
+Information on National Insurance Numbers:
+
+http://www.hmrc.gov.uk/ni/intro/basics.htm
+
+No online checker is available.
+
+Section V – Contact point for further information
+
+[We are still considering this and whether it is appropriate to use the same contact as we have for
+EUSD].
+
+dwp/hmrc.nationalinsurancenumberboard@hmrc.gsi.gov.uk

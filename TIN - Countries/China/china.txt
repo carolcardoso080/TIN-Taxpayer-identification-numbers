@@ -1,0 +1,208 @@
+Information on Tax Identification Numbers (The information is to be considered as preliminary guidance only. Should there be any inconsistency between Chinese and English version, the Chinese version shall prevail.)
+
+Section I – TIN Description
+
+Entities: Generally TIN of an entity is the Uniform Social Credit Code which can be found on the
+entity’s Business Licence. If no Uniform Social Credit Code is obtained by the entity, its TIN (18
+digits) is assigned by local tax office according to relevant rules. During current transition period, the
+15-digit old TIN is still in use for some entities, printed on the Tax Registration Certificate.
+
+Individual: TIN depends on its identification. For an individual using Chinese ID card as its
+identification, TIN is the ID number. For an individual using passport or other ID certificate as its
+identification, TIN is issued by local tax office according to relevant rules. In some regions, passport
+numbers are also recognized as TIN for foreign individuals.
+
+Relevant tax provisions:
+
+Coding for the Identification number for tax payers (Shuizongfa [2013]41)
+Revision of Coding for the Identification number for tax payers (Gonggao [2015]66)
+http://www.chinatax.gov.cn/n810341/n810755/c1826943/content.html
+Notice on Taxpayer Identification Number for Individual Taxpayers
+http://www.chinatax.gov.cn/n810341/n810755/c3960494/content.html
+
+Additional information on the mandatory issuance of TINs
+
+Does your jurisdiction automatically issue TINs to all residents for tax purposes?
+
+Individuals: YES only for individuals using Chinese ID card as their identification as TIN is their ID
+numbers. As for individuals using passports or other ID certificates as their identification, the issuance
+of the Chinese TIN occurs following a first tax-return or following a first tax payment obligation.
+
+Entities: NO. Entities need to be registered with tax authority or industry & commerce authority to
+obtain their TIN or Uniform Social Credit Code which is recognized as TIN.
+
+Section II – TIN Structure
+
+The structure of TIN varies depending on the types of taxpayer.
+
+For entities, it consists of 15 characters (old TIN regime) or 18 characters (new TIN regime).
+For an individual using Chinese ID card as its identification, TIN is its ID number which consists of
+18 characters. For an individual using passport or other ID certificate as its identification, TIN is
+assigned in the following format. In some areas, passport numbers are also recognized as TIN for
+foreign individuals.
+
+Entity 
+
+999999999999999 (old TIN)
+999999999999999999 (new TIN)
+99999999xxxxxxxxxx (new TIN)
+
+For the old TIN regime, there
+are 15 numerals. While for the
+new TIN regime, there are 18
+numerals with sometimes
+letters appearing in the last 10
+characters, especially the 9th, 10th, 13rd and 18th.
+
+---
+
+Individual (using
+Chinese ID card as its
+identification)
+
+999999999999999999
+99999999999999999x
+
+18 numerals or 17 numerals
+followed by letter “x”
+
+---
+
+Individual (using
+Chinese passport as its
+identification)
+
+C99999999999999999
+C9999999999999999x
+
+First character is “C” followed
+by 17 numerals or 16 numerals
+with a letter.
+
+---
+
+Individual (using
+Foreign passport as its
+identification)
+
+W99999999999999999
+W9999999999999999x
+
+First character is “W” followed
+by 17 numerals or 16 numerals
+with a letter.
+
+---
+
+Individual (using
+Soldier card as its
+identification)
+
+J99999999999999 
+
+First character is “J” followed
+by 14 numerals.
+
+---
+
+Individual (using
+Mainland Travel Permit
+for Hong Kong
+Residents as its
+identification)
+
+H99999999999999999
+H9999999999999999x
+
+First character is “H” followed
+by 17 numerals or 16 numerals
+with a letter.
+
+---
+
+Individual (using
+Mainland Travel Permit
+for Macau Residents as
+its identification)
+
+M99999999999999999
+M9999999999999999x
+
+First character is “M” followed
+by 17 numerals or 16 numerals
+with a letter.
+
+---
+
+Individual (using
+Mainland Travel Permit
+for Taiwan Residents as
+its identification)
+
+T99999999999999999
+T9999999999999999x
+
+First character is “T” followed
+by 17 numerals or 16 numerals
+with a letter.
+
+---
+
+This section contains information on the alphanumeric structure of the TIN, the use of slashed, capital
+letter, hyphens, etc. In addition, jurisdictions would outline the meaning given to the numbers and
+letters that make up the TIN (including for instance the use of check digits).
+
+Section III – Where to find TINs?
+
+Taxpayer who registered with tax authority was issued a certificate of tax registration that contains its
+TIN. Under the new TIN regime, taxpayer who registers with industry & commerce authority will be
+issued a business licence that contains its Uniform Social Credit Code, which is also its TIN. For an
+individual using Chinese ID card as its identification, its TIN number is shown on its identification
+card. For an individual using passport or other ID certificate as its identification, its TIN number is
+usually shown on a Tax-Paid Certificate which could be obtained from the local tax office.
+
+For entity: CERTIFICATE OF TAX REGISTRATION (old TIN)
+Name of
+taxpayer
+TIN
+
+For entity: BUSINESS LICENCE (new TIN)
+For an individual using Chinese ID card as its identification: IDENTIFICATION CARD
+Name of
+taxpayer
+TIN
+
+For an individual using passport or other ID certificate as its identification: TAX-PAID
+CERTIFICATE
+In this section, jurisdictions should list the official documents where the TIN can be found, such as the
+photo page of passports, social security cards, corporate documents, etc. Ideally, jurisdictions would
+provide scans of the documents on which they would highlight the place where the TIN can be found.
+Name of
+taxpayer TIN
+
+Section IV – TIN information on the domestic website
+
+For further information:
+
+http://www.chinatax.gov.cn/n810341/n810755/c1826943/content.html
+
+http://www.gov.cn/xinwen/2015-08/13/content_2912366.htm
+
+No online checker is available now.
+
+In this section, jurisdictions can provide hyperlinks to their domestic website where further
+information on TINs can be found. In addition, jurisdictions could provide a link to an online TIN-
+verification tool, if available.
+
+Section V – Contact point for further information
+
+Chinese Competent Authority
+
+Global Cooperation and Compliance Division, International Taxation Department, State
+Administration of Taxation
+
+No. 5, Yangfangdian Xilu, Haidian District, Beijing, P.R.China
+Email: eoicompetentauthority@chinatax.gov.cn
+
+Under this header, jurisdictions would provide the contact details of the competent service within
+their tax administration, which can be contacted in case of further questions on TINs.
